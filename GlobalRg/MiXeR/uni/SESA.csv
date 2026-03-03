@@ -1,0 +1,2 @@
+fname	pi (mean)	pi (std)	sig2_beta (mean)	sig2_beta (std)	sig2_zero (mean)	sig2_zero (std)	h2 (mean)	h2 (std)	nc@p9 (mean)	nc@p9 (std)	AIC	BIC
+/media/kame/Data/_workings/projects/StressNSSIGenetics/1_GlobalRg/results/MiXeR/uni/combined/SESA.fit.json	0.0035088396166307405	0.00011595423437134812	1.0936551977807925e-05	3.422145615947695e-07	1.1325810506331604	0.0036614764113629375	0.07949158333981655	0.0009104721297420204	11190.098980421459	369.7915839938837	107.77087276375968	98.29571111596306

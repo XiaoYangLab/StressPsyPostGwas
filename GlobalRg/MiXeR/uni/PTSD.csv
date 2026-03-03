@@ -1,0 +1,2 @@
+fname	pi (mean)	pi (std)	sig2_beta (mean)	sig2_beta (std)	sig2_zero (mean)	sig2_zero (std)	h2 (mean)	h2 (std)	nc@p9 (mean)	nc@p9 (std)	AIC	BIC
+/media/kame/Data/_workings/projects/StressNSSIGenetics/1_GlobalRg/results/MiXeR/uni/combined/PTSD.fit.json	0.00774102653257992	0.014852780957252246	9.493680986294324e-06	6.333373649105628e-06	1.029696755850985	0.0022202201333333094	0.04006635217306938	0.0020389026501467624	24687.036905042427	47367.251628834536	-1.6639982004475313	-11.265596797020407

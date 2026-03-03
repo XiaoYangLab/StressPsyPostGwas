@@ -1,0 +1,2 @@
+fname	pi (mean)	pi (std)	sig2_beta (mean)	sig2_beta (std)	sig2_zero (mean)	sig2_zero (std)	h2 (mean)	h2 (std)	nc@p9 (mean)	nc@p9 (std)	AIC	BIC
+/media/kame/Data/_workings/projects/StressNSSIGenetics/1_GlobalRg/results/MiXeR/uni/combined/TS.fit.json	0.005318573023811382	0.0050456242462553974	5.0403159678518155e-05	2.4016256944258342e-05	1.0360475601922163	0.002885226633998864	0.32757495074054754	0.01350995161031052	16961.549991902073	16091.084490156138	-1.289555885703885	-10.822573759467923
