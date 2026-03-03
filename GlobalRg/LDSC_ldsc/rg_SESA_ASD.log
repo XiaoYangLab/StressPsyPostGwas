@@ -1,0 +1,65 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--ref-ld-chr /media/kame/Data/_workings/resource/eur_w_ld_chr/ \
+--out /media/kame/Data/_workings/projects/StressNSSIGenetics/1_ldsc/results/rg_SESA_ASD \
+--rg /media/kame/Data/_workings/projects/StressNSSIGenetics/1_ldsc/results/SESA.sumstats.gz,/media/kame/Data/_workings/projects/StressNSSIGenetics/0_data/Psy/ASD.sumstats.gz \
+--w-ld-chr /media/kame/Data/_workings/resource/eur_w_ld_chr/ 
+
+Beginning analysis at Fri May  2 17:07:03 2025
+Reading summary statistics from /media/kame/Data/_workings/projects/StressNSSIGenetics/1_ldsc/results/SESA.sumstats.gz ...
+Read summary statistics for 1163808 SNPs.
+Reading reference panel LD Score from /media/kame/Data/_workings/resource/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1290028 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from /media/kame/Data/_workings/resource/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1290028 SNPs.
+After merging with reference panel LD, 1137464 SNPs remain.
+After merging with regression SNP LD, 1137464 SNPs remain.
+Computing rg for phenotype 2/2
+Reading summary statistics from /media/kame/Data/_workings/projects/StressNSSIGenetics/0_data/Psy/ASD.sumstats.gz ...
+Read summary statistics for 1145994 SNPs.
+After merging with summary statistics, 1099782 SNPs remain.
+1099782 SNPs with valid alleles.
+
+Heritability of phenotype 1
+---------------------------
+Total Observed scale h2: 0.0829 (0.0031)
+Lambda GC: 1.4709
+Mean Chi^2: 1.5956
+Intercept: 1.0249 (0.0105)
+Ratio: 0.0418 (0.0176)
+
+Heritability of phenotype 2/2
+-----------------------------
+Total Observed scale h2: 0.2246 (0.0165)
+Lambda GC: 1.163
+Mean Chi^2: 1.1892
+Intercept: 1.0035 (0.0075)
+Ratio: 0.0186 (0.0395)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0225 (0.0048)
+Mean z1*z2: 0.0542
+Intercept: 0.0005 (0.0061)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.165 (0.0338)
+Z-score: 4.8812
+P: 1.0543e-06
+
+
+Summary of Genetic Correlation Results
+p1                                                                                 p2     rg      se       z           p  h2_obs  h2_obs_se  h2_int  h2_int_se  gcov_int  gcov_int_se
+/media/kame/Data/_workings/projects/StressNSSIGenetics/1_ldsc/results/SESA.sumstats.gz  /media/kame/Data/_workings/projects/StressNSSIGenetics/0_data/Psy/ASD.sumstats.gz  0.165  0.0338  4.8812  1.0543e-06  0.2246     0.0165  1.0035     0.0075    0.0005       0.0061
+
+Analysis finished at Fri May  2 17:07:10 2025
+Total time elapsed: 6.19s
