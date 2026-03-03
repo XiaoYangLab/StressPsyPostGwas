@@ -1,0 +1,58 @@
+Multivariate ld-score regression of 2 traits (D:/_workings/projects/StressNSSIGenetics/0_data/SESA_from_neuroticism/SESA.sumstats.gz D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz) began at: 2025-05-02 01:31:10.62533
+Reading in LD scores
+Read in summary statistics [1/2] from: D:/_workings/projects/StressNSSIGenetics/0_data/SESA_from_neuroticism/SESA.sumstats.gz
+Out of 1163808 SNPs, 1137464 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 351.827; 1137464 remain
+Read in summary statistics [2/2] from: D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz
+Out of 928535 SNPs, 924711 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 80; 924711 remain
+          
+Estimating heritability [1/3] for: D:/_workings/projects/StressNSSIGenetics/0_data/SESA_from_neuroticism/SESA.sumstats.gz
+Heritability Results for trait: D:/_workings/projects/StressNSSIGenetics/0_data/SESA_from_neuroticism/SESA.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.5879
+Lambda GC: 1.4636
+Intercept: 1.02 (0.0099)
+Ratio: 0.0339 (0.0168)
+Total Observed Scale h2: 0.0836 (0.003)
+h2 Z: 27.9
+     
+Calculating genetic covariance [2/3] for traits: D:/_workings/projects/StressNSSIGenetics/0_data/SESA_from_neuroticism/SESA.sumstats.gz and D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz
+908926 SNPs remain after merging D:/_workings/projects/StressNSSIGenetics/0_data/SESA_from_neuroticism/SESA.sumstats.gz and D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz summary statistics
+Results for genetic covariance between: D:/_workings/projects/StressNSSIGenetics/0_data/SESA_from_neuroticism/SESA.sumstats.gz and D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz
+Mean Z*Z: 0.1261
+Cross trait Intercept: 0.0096 (0.0074)
+Total Observed Scale Genetic Covariance (g_cov): 0.0598 (0.0071)
+g_cov Z: 8.37
+g_cov P-value: 5.7273e-17
+          
+Estimating heritability [3/3] for: D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz
+     
+Please note that the results initially printed to the screen and log file reflect the NON-liability h2 and cov_g. However, a liability conversion is being used for trait D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz when creating the genetic covariance matrix used as input for Genomic SEM and liability scale results are printed at the end of the log file.
+     
+Heritability Results for trait: D:/_workings/projects/StressNSSIGenetics/0_data/Psy/AN.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.3024
+Lambda GC: 1.2577
+Intercept: 1.02 (0.011)
+Ratio: 0.0663 (0.0365)
+Total Observed Scale h2: 0.5745 (0.0382)
+h2 Z: 15
+     
+      
+Liability Scale Results
+     
+Liability scale results for: SESA
+Total Liability Scale h2: 0.0836 (0.003)
+Total Liability Scale Genetic Covariance between SESA and AN: 0.0444 (0.0053)
+     
+     
+Liability scale results for: AN
+Total Liability Scale h2: 0.3171 (0.0211)
+     
+      
+Genetic Correlation Results
+Genetic Correlation between SESA and AN: 0.273 (0.0326)
+     
+     
+LDSC finished running at 2025-05-02 01:31:19.274433
+Running LDSC for all files took 0 minutes and 8 seconds
+     
