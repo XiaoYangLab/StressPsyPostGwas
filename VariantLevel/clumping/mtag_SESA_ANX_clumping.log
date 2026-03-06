@@ -1,0 +1,34 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile /media/kame/Data/_workings/resource/g1000_eur/g1000_eur
+  --clump /media/kame/Data/_workings/projects/StressPsyGenetics/3_CrossTrait/results/mtag/SESA_ANX_mtag_max_fdr.txt_mtag_meta.txt
+  --clump-field mtag_pval
+  --clump-kb 1000
+  --clump-p1 5e-8
+  --clump-p2 1
+  --clump-r2 0.1
+  --clump-snp-field SNP
+  --clump-verbose
+  --out /media/kame/Data/_workings/projects/StressPsyGenetics/4_VariantLevel/results/clumping/mtag_SESA_ANX_clumping
+
+Hostname: xiao
+Working directory: /media/kame/Data/_workings/projects/StressPsyGenetics/4_VariantLevel
+Start time: Fri Oct 17 03:41:56 2025
+
+Random number seed: 1760643716
+31902 MB RAM detected; reserving 15951 MB for main workspace.
+22665064 variants loaded from .bim file.
+503 people (240 males, 263 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+22665064 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+4 top variant IDs missing; see the end of the .clumped file.
+--clump: 70 clumps formed from 1830 top variants.
+Results written to
+/media/kame/Data/_workings/projects/StressPsyGenetics/4_VariantLevel/results/clumping/mtag_SESA_ANX_clumping.clumped
+.
+
+End time: Fri Oct 17 03:42:01 2025
