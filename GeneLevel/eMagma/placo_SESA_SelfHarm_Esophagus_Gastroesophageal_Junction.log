@@ -1,0 +1,37 @@
+Welcome to MAGMA v1.10 (linux)
+Using flags:
+	--bfile /media/kame/Data/_workings/resource/g1000_eur/g1000_eur
+	--gene-annot /media/kame/Data/_workings/resource/eMAGMA_GTEx_v8/Esophagus_Gastroesophageal_Junction.genes.annot
+	--pval /media/kame/Data/_workings/projects/StressPsyGenetics/3_CrossTrait/results/placo/placo_SESA_SelfHarm.txt use=1,8 N=351827
+	--gene-settings adap-permp=10000
+	--out /media/kame/Data/_workings/projects/StressPsyGenetics/5_GeneLevel/results/emagma/placo_SESA_SelfHarm_Esophagus_Gastroesophageal_Junction
+
+Start time is 05:00:09, Monday 27 Oct 2025
+
+Loading PLINK-format data...
+Reading file /media/kame/Data/_workings/resource/g1000_eur/g1000_eur.fam... 503 individuals read
+Reading file /media/kame/Data/_workings/resource/g1000_eur/g1000_eur.bim... 22665064 SNPs read
+Preparing file /media/kame/Data/_workings/resource/g1000_eur/g1000_eur.bed... 
+
+Reading SNP synonyms from file /media/kame/Data/_workings/resource/g1000_eur/g1000_eur.synonyms (auto-detected)
+	read 6016767 mapped synonyms from file, mapping to 3921040 SNPs in the data
+	WARNING: detected 133 synonymous SNP pairs in the data
+	         skipped all synonym entries involved, synonymous SNPs are kept in analysis
+	         writing list of detected synonyms in data to supplementary log file
+Reading SNP p-values from file /media/kame/Data/_workings/projects/StressPsyGenetics/3_CrossTrait/results/placo/placo_SESA_SelfHarm.txt... 
+	detected 8 variables in file
+	using variable: SNP (SNP id)
+	using variable: P (p-value)
+	read 8492152 lines from file, containing valid SNP p-values for 8299316 SNPs in data (97.73% of lines, 36.62% of SNPs in data)
+Loading gene annotation from file /media/kame/Data/_workings/resource/eMAGMA_GTEx_v8/Esophagus_Gastroesophageal_Junction.genes.annot... 
+	6935 gene definitions read from file
+	found 6455 genes containing valid SNPs in genotype data
+
+
+Starting gene analysis... 
+	using model: SNPwise-mean
+	writing gene analysis results to file /media/kame/Data/_workings/projects/StressPsyGenetics/5_GeneLevel/results/emagma/placo_SESA_SelfHarm_Esophagus_Gastroesophageal_Junction.genes.out
+	writing intermediate output to file /media/kame/Data/_workings/projects/StressPsyGenetics/5_GeneLevel/results/emagma/placo_SESA_SelfHarm_Esophagus_Gastroesophageal_Junction.genes.raw
+
+
+End time is 05:10:31, Monday 27 Oct 2025 (elapsed: 00:10:22)
