@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90002052	CD45 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002052	exposure	Inverse variance weighted (fixed effects)	36	0.178162309074269	0.45039049191405	0.692420073350664
+EXeeTg	ebi-a-GCST90002052	CD45 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002052	exposure	Weighted median	36	-0.19750870382759	0.628890592438527	0.753476284879342
+EXeeTg	ebi-a-GCST90002052	CD45 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002052	exposure	Weighted mode	36	-0.76003479370924	1.19500719161915	0.528908178127596
+EXeeTg	ebi-a-GCST90002052	CD45 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002052	exposure	Simple mode	36	-0.726818310879344	1.26028037236529	0.567825209795338
+EXeeTg	ebi-a-GCST90002052	CD45 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002052	exposure	MR Egger	36	1.4748364754212	2.62244098039897	0.57753929221558
+EXeeTg	ebi-a-GCST90002052	CD45 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002052	exposure	MR RAPS	36	0.122452518675575	0.471969248545849	0.795287896831844
+EXeeTg	ebi-a-GCST90002052	CD45 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002052	exposure	PRESSO	36	0.178162309074269	0.37945595687917	0.641609758228867

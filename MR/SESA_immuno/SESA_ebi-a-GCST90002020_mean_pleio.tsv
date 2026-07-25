@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90002020	CD14 on CD33+ HLA DR+ CD14dim || id:ebi-a-GCST90002020	exposure	-0.0248076539861428	0.0333490072931355	0.461647331577385

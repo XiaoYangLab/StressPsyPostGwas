@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90002039	CD80 on monocyte || id:ebi-a-GCST90002039	exposure	0.00235131904603712	0.0253235394929076	0.926509650727891

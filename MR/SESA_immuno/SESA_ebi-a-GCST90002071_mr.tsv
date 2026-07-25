@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90002071	SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071	exposure	Inverse variance weighted (fixed effects)	39	-0.204219166396809	0.319298037089336	0.522440540071364
+EXeeTg	ebi-a-GCST90002071	SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071	exposure	Weighted median	39	0.0311466558526126	0.444319403679241	0.944114307361981
+EXeeTg	ebi-a-GCST90002071	SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071	exposure	Weighted mode	39	0.820236736768435	0.887667424026753	0.361298285939222
+EXeeTg	ebi-a-GCST90002071	SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071	exposure	Simple mode	39	0.55647367048184	0.949392710597107	0.561249501851612
+EXeeTg	ebi-a-GCST90002071	SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071	exposure	MR Egger	39	-0.129526790279371	1.62433258865537	0.936872560555977
+EXeeTg	ebi-a-GCST90002071	SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071	exposure	MR RAPS	39	-0.185093652336316	0.334115550509525	0.579591878526449
+EXeeTg	ebi-a-GCST90002071	SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071	exposure	PRESSO	39	-0.204219166396809	0.262064345322887	0.440646417923491

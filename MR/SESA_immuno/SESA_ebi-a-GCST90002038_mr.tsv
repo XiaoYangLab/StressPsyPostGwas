@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90002038	CD80 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002038	exposure	Inverse variance weighted (fixed effects)	38	0.499839574055028	0.3167782747968	0.114592114348733
+EXeeTg	ebi-a-GCST90002038	CD80 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002038	exposure	Weighted median	38	0.973845326947946	0.462280069510819	0.0351511158975924
+EXeeTg	ebi-a-GCST90002038	CD80 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002038	exposure	Weighted mode	38	1.5798629727849	0.904765070832845	0.0890824712087143
+EXeeTg	ebi-a-GCST90002038	CD80 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002038	exposure	Simple mode	38	1.29612437360798	1.02959077737607	0.215961024507488
+EXeeTg	ebi-a-GCST90002038	CD80 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002038	exposure	MR Egger	38	3.53352221773596	1.56924736851556	0.0305356183694729
+EXeeTg	ebi-a-GCST90002038	CD80 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002038	exposure	MR RAPS	38	0.562793894707752	0.333381017067623	0.0913843204223909
+EXeeTg	ebi-a-GCST90002038	CD80 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002038	exposure	PRESSO	38	0.499839574055028	0.290749514092163	0.0939457324281805

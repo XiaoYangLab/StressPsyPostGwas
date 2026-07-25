@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90002014	CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014	exposure	Inverse variance weighted (fixed effects)	37	0.265589843437569	0.324440216687953	0.41300924533537
+EXeeTg	ebi-a-GCST90002014	CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014	exposure	Weighted median	37	0.199952854507094	0.474026036309882	0.673157650789722
+EXeeTg	ebi-a-GCST90002014	CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014	exposure	Weighted mode	37	-0.050118173268908	0.937717004871151	0.95767124515384
+EXeeTg	ebi-a-GCST90002014	CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014	exposure	Simple mode	37	0.122506878795896	0.959746770666754	0.899140283494015
+EXeeTg	ebi-a-GCST90002014	CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014	exposure	MR Egger	37	2.13535983488732	1.62027011247545	0.196097163210266
+EXeeTg	ebi-a-GCST90002014	CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014	exposure	MR RAPS	37	0.259193354158616	0.33972514665548	0.445493121517122
+EXeeTg	ebi-a-GCST90002014	CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014	exposure	PRESSO	37	0.265589843437569	0.278006533787101	0.345778978457635

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90002031	CD39 on CD39+ secreting CD4 regulatory T cell || id:ebi-a-GCST90002031	exposure	Inverse variance weighted (fixed effects)	39	-0.317771193081571	0.311674537041977	0.307936723797208
+EXeeTg	ebi-a-GCST90002031	CD39 on CD39+ secreting CD4 regulatory T cell || id:ebi-a-GCST90002031	exposure	Weighted median	39	0.255553355960099	0.462901680722176	0.580901541832866
+EXeeTg	ebi-a-GCST90002031	CD39 on CD39+ secreting CD4 regulatory T cell || id:ebi-a-GCST90002031	exposure	Weighted mode	39	0.766003208324639	0.929457084277181	0.415002801092753
+EXeeTg	ebi-a-GCST90002031	CD39 on CD39+ secreting CD4 regulatory T cell || id:ebi-a-GCST90002031	exposure	Simple mode	39	0.975113587821301	0.903694616108597	0.287376043043189
+EXeeTg	ebi-a-GCST90002031	CD39 on CD39+ secreting CD4 regulatory T cell || id:ebi-a-GCST90002031	exposure	MR Egger	39	0.835767283735025	1.55565919210421	0.594316121231999
+EXeeTg	ebi-a-GCST90002031	CD39 on CD39+ secreting CD4 regulatory T cell || id:ebi-a-GCST90002031	exposure	MR RAPS	39	-0.273311511318598	0.327508556695465	0.403989620400041
+EXeeTg	ebi-a-GCST90002031	CD39 on CD39+ secreting CD4 regulatory T cell || id:ebi-a-GCST90002031	exposure	PRESSO	39	-0.317771193081571	0.291346877339609	0.28227411108009
