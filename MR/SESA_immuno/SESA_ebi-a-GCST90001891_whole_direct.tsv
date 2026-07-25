@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001891	exposure	CD28 on CD45RA- CD4 not regulatory T cell || id:ebi-a-GCST90001891	0.00445144464094769	0.0125768157507145	FALSE	0.0137611274942684

@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001918	CD45 on HLA DR+ T cell || id:ebi-a-GCST90001918	exposure	0.0207844693666818	0.0251167862801963	0.413398313449486

@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001921	exposure	CD45 on HLA DR+ CD8+ T cell || id:ebi-a-GCST90001921	0.00442393224636074	0.0138403627620056	FALSE	0.00451814562057017

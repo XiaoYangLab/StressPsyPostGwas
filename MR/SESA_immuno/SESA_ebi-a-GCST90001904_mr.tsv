@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001904	CD86 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90001904	exposure	Inverse variance weighted (fixed effects)	38	0.422928087725281	0.309542291655528	0.171844360213248
+EXeeTg	ebi-a-GCST90001904	CD86 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90001904	exposure	Weighted median	38	0.480193361495446	0.438439102588021	0.273414184318208
+EXeeTg	ebi-a-GCST90001904	CD86 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90001904	exposure	Weighted mode	38	0.250183942574604	0.727188493549307	0.732761779587382
+EXeeTg	ebi-a-GCST90001904	CD86 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90001904	exposure	Simple mode	38	0.319956041508682	0.850406153174997	0.708888017259258
+EXeeTg	ebi-a-GCST90001904	CD86 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90001904	exposure	MR Egger	38	1.56342163523929	1.53022805172099	0.313743774886715
+EXeeTg	ebi-a-GCST90001904	CD86 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90001904	exposure	MR RAPS	38	0.460824864941157	0.324682277471493	0.155808602598466
+EXeeTg	ebi-a-GCST90001904	CD86 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90001904	exposure	PRESSO	38	0.422928087725281	0.270133542634809	0.125949939337807

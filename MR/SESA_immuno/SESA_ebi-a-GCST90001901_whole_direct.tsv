@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001901	exposure	CD28 on CD39+ resting CD4 regulatory T cell || id:ebi-a-GCST90001901	0.00412957710790287	0.0155670538836313	FALSE	0.00174700040480391

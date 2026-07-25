@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001914	exposure	CD45 on lymphocyte || id:ebi-a-GCST90001914	0.00402949061040279	0.00964852690756151	FALSE	0.0521192332965577
