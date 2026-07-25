@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001845	CD3 on CD45RA- CD4+ T cell || id:ebi-a-GCST90001845	exposure	-0.0256710848916291	0.0255415965777019	0.321391352473588

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001772	CD24 on unswitched memory B cell || id:ebi-a-GCST90001772	exposure	Inverse variance weighted (fixed effects)	37	-0.284351263491958	0.284628077076087	0.317781391516425
+EXeeTg	ebi-a-GCST90001772	CD24 on unswitched memory B cell || id:ebi-a-GCST90001772	exposure	Weighted median	37	-0.0962586837863168	0.413709714313077	0.816016081130147
+EXeeTg	ebi-a-GCST90001772	CD24 on unswitched memory B cell || id:ebi-a-GCST90001772	exposure	Weighted mode	37	0.212380641702364	0.771327048435664	0.784625868711465
+EXeeTg	ebi-a-GCST90001772	CD24 on unswitched memory B cell || id:ebi-a-GCST90001772	exposure	Simple mode	37	-0.397211501932855	0.844386055304444	0.640896512819371
+EXeeTg	ebi-a-GCST90001772	CD24 on unswitched memory B cell || id:ebi-a-GCST90001772	exposure	MR Egger	37	0.90052097322931	1.3796061755615	0.518190120541451
+EXeeTg	ebi-a-GCST90001772	CD24 on unswitched memory B cell || id:ebi-a-GCST90001772	exposure	MR RAPS	37	-0.302872818108668	0.298665954299252	0.310541949103286
+EXeeTg	ebi-a-GCST90001772	CD24 on unswitched memory B cell || id:ebi-a-GCST90001772	exposure	PRESSO	37	-0.284351263491958	0.259440673442235	0.280349660348274

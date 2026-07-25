@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001855	CD3 on secreting CD4 regulatory T cell || id:ebi-a-GCST90001855	exposure	-0.0287906216861073	0.0260541500283304	0.276280661398882

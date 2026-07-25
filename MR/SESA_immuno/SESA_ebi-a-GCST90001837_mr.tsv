@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001837	CD66b on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001837	exposure	Inverse variance weighted (fixed effects)	36	-0.570599956393501	0.461595506515737	0.216403882227319
+EXeeTg	ebi-a-GCST90001837	CD66b on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001837	exposure	Weighted median	36	-0.80759142964064	0.616948854787408	0.190531397554316
+EXeeTg	ebi-a-GCST90001837	CD66b on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001837	exposure	Weighted mode	36	-0.716697663026251	1.12498216951425	0.528221629245697
+EXeeTg	ebi-a-GCST90001837	CD66b on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001837	exposure	Simple mode	36	-0.917907553028634	1.26552010053778	0.473077493209096
+EXeeTg	ebi-a-GCST90001837	CD66b on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001837	exposure	MR Egger	36	3.90279021984675	2.22481029590111	0.0884045228720302
+EXeeTg	ebi-a-GCST90001837	CD66b on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001837	exposure	MR RAPS	36	-0.629257488807454	0.481988041251501	0.191707044037635
+EXeeTg	ebi-a-GCST90001837	CD66b on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001837	exposure	PRESSO	36	-0.570599956393501	0.370559279787263	0.132593942927345
