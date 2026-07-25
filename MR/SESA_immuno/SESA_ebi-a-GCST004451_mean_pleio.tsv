@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST004451	Interleukin-7 levels || id:ebi-a-GCST004451	exposure	-0.0189700340261218	0.0231800392671979	0.418525693931534

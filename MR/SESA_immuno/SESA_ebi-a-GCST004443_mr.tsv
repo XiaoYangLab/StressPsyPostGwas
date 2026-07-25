@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST004443	Interleukin-13 levels || id:ebi-a-GCST004443	exposure	Inverse variance weighted (fixed effects)	38	-0.226808162177075	0.268619836549672	0.398475926686284
+EXeeTg	ebi-a-GCST004443	Interleukin-13 levels || id:ebi-a-GCST004443	exposure	Weighted median	38	-0.0501191957214294	0.376099739479015	0.893987457059683
+EXeeTg	ebi-a-GCST004443	Interleukin-13 levels || id:ebi-a-GCST004443	exposure	Weighted mode	38	0.329548457791229	0.799513131996091	0.682581233943093
+EXeeTg	ebi-a-GCST004443	Interleukin-13 levels || id:ebi-a-GCST004443	exposure	Simple mode	38	0.329548457791229	0.823550425031077	0.691342816331033
+EXeeTg	ebi-a-GCST004443	Interleukin-13 levels || id:ebi-a-GCST004443	exposure	MR Egger	38	-0.372998927228722	1.39071805422461	0.790071667290455
+EXeeTg	ebi-a-GCST004443	Interleukin-13 levels || id:ebi-a-GCST004443	exposure	MR RAPS	38	-0.232250327898438	0.28162206492779	0.40954876554315
+EXeeTg	ebi-a-GCST004443	Interleukin-13 levels || id:ebi-a-GCST004443	exposure	PRESSO	38	-0.226808162177075	0.227605806785153	0.325482115001586

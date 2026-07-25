@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST004606	Eosinophil counts || id:ebi-a-GCST004606	exposure	Inverse variance weighted (fixed effects)	28	-0.0160479836076025	0.0468286795643211	0.731827454447897
+EXeeTg	ebi-a-GCST004606	Eosinophil counts || id:ebi-a-GCST004606	exposure	Weighted median	28	-0.0733055455758053	0.0680047011253668	0.281056870848269
+EXeeTg	ebi-a-GCST004606	Eosinophil counts || id:ebi-a-GCST004606	exposure	Weighted mode	28	-0.163242028530862	0.126386022551219	0.207438548547098
+EXeeTg	ebi-a-GCST004606	Eosinophil counts || id:ebi-a-GCST004606	exposure	Simple mode	28	-0.183364738669201	0.129275509195898	0.16751331387824
+EXeeTg	ebi-a-GCST004606	Eosinophil counts || id:ebi-a-GCST004606	exposure	MR Egger	28	0.205796468912703	0.224804891085121	0.368371073161596
+EXeeTg	ebi-a-GCST004606	Eosinophil counts || id:ebi-a-GCST004606	exposure	MR RAPS	28	-0.0307086416608131	0.0493016705734297	0.533368485916345
+EXeeTg	ebi-a-GCST004606	Eosinophil counts || id:ebi-a-GCST004606	exposure	PRESSO	28	-0.0160479836076025	0.0449057258161867	0.72359276739694

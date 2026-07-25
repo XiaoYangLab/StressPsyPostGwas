@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST006354	Anti-hepatitis B virus surface antigen (HBs) IgG levels || id:ebi-a-GCST006354	exposure	Inverse variance weighted (fixed effects)	35	-0.0505169725623679	0.622878837933846	0.93536051207858
+EXeeTg	ebi-a-GCST006354	Anti-hepatitis B virus surface antigen (HBs) IgG levels || id:ebi-a-GCST006354	exposure	Weighted median	35	-0.0830336556936337	0.848597704508104	0.92205292857165
+EXeeTg	ebi-a-GCST006354	Anti-hepatitis B virus surface antigen (HBs) IgG levels || id:ebi-a-GCST006354	exposure	Weighted mode	35	-0.0741801983652852	1.76057496810487	0.966638283543292
+EXeeTg	ebi-a-GCST006354	Anti-hepatitis B virus surface antigen (HBs) IgG levels || id:ebi-a-GCST006354	exposure	Simple mode	35	0.0735146623036265	1.76893619289904	0.967093605091903
+EXeeTg	ebi-a-GCST006354	Anti-hepatitis B virus surface antigen (HBs) IgG levels || id:ebi-a-GCST006354	exposure	MR Egger	35	2.61789610513264	3.0620594121593	0.398745540943631
+EXeeTg	ebi-a-GCST006354	Anti-hepatitis B virus surface antigen (HBs) IgG levels || id:ebi-a-GCST006354	exposure	MR RAPS	35	0.0144440944051669	0.650122783141076	0.982274468519979
+EXeeTg	ebi-a-GCST006354	Anti-hepatitis B virus surface antigen (HBs) IgG levels || id:ebi-a-GCST006354	exposure	PRESSO	35	-0.0505169725623679	0.49785978346858	0.91977478186676

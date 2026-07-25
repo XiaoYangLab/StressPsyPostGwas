@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST004627	Lymphocyte counts || id:ebi-a-GCST004627	exposure	Inverse variance weighted (fixed effects)	31	-0.012216839358684	0.0439307826089687	0.780941034944843
+EXeeTg	ebi-a-GCST004627	Lymphocyte counts || id:ebi-a-GCST004627	exposure	Weighted median	31	-0.00963158882197498	0.0629222223889893	0.878342017800481
+EXeeTg	ebi-a-GCST004627	Lymphocyte counts || id:ebi-a-GCST004627	exposure	Weighted mode	31	-0.149909220826177	0.126282466633866	0.244505498264961
+EXeeTg	ebi-a-GCST004627	Lymphocyte counts || id:ebi-a-GCST004627	exposure	Simple mode	31	-0.158796561786153	0.139182715410228	0.262928803267647
+EXeeTg	ebi-a-GCST004627	Lymphocyte counts || id:ebi-a-GCST004627	exposure	MR Egger	31	0.0791584962131002	0.198952810723106	0.693635659011226
+EXeeTg	ebi-a-GCST004627	Lymphocyte counts || id:ebi-a-GCST004627	exposure	MR RAPS	31	-0.0129118321575278	0.0460393969466919	0.779130893298483
+EXeeTg	ebi-a-GCST004627	Lymphocyte counts || id:ebi-a-GCST004627	exposure	PRESSO	31	-0.012216839358684	0.039094871712504	0.756828431871358

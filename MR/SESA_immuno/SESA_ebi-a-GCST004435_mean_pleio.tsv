@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	-0.0231126798902535	0.022692095229451	0.315220552568574

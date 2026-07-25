@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST006344	exposure	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	0.00353120609390229	0.0703889053006607	FALSE	8.28683926469331e-05

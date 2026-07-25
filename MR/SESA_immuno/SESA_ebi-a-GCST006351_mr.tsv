@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST006351	Anti-measles virus IgG levels || id:ebi-a-GCST006351	exposure	Inverse variance weighted (fixed effects)	36	0.178983834445047	0.131712823221562	0.174180013794686
+EXeeTg	ebi-a-GCST006351	Anti-measles virus IgG levels || id:ebi-a-GCST006351	exposure	Weighted median	36	0.171229521149371	0.199034796140644	0.389624008454066
+EXeeTg	ebi-a-GCST006351	Anti-measles virus IgG levels || id:ebi-a-GCST006351	exposure	Weighted mode	36	0.100862360811896	0.479002373590664	0.8344458504245
+EXeeTg	ebi-a-GCST006351	Anti-measles virus IgG levels || id:ebi-a-GCST006351	exposure	Simple mode	36	0.131405162907485	0.457484711981439	0.775626928828689
+EXeeTg	ebi-a-GCST006351	Anti-measles virus IgG levels || id:ebi-a-GCST006351	exposure	MR Egger	36	1.38630830869748	0.647277814765579	0.039463216636176
+EXeeTg	ebi-a-GCST006351	Anti-measles virus IgG levels || id:ebi-a-GCST006351	exposure	MR RAPS	36	0.176539637113727	0.1490591519028	0.23627074646756
+EXeeTg	ebi-a-GCST006351	Anti-measles virus IgG levels || id:ebi-a-GCST006351	exposure	PRESSO	36	0.178983834445047	0.133947276333137	0.190098463240175

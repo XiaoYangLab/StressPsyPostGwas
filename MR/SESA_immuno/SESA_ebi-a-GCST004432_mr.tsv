@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST004432	Platelet-derived growth factor BB levels || id:ebi-a-GCST004432	exposure	Inverse variance weighted (fixed effects)	39	0.0328458249979397	0.173490201663417	0.849839039509513
+EXeeTg	ebi-a-GCST004432	Platelet-derived growth factor BB levels || id:ebi-a-GCST004432	exposure	Weighted median	39	0.0085562641727191	0.232554012479668	0.970650383269167
+EXeeTg	ebi-a-GCST004432	Platelet-derived growth factor BB levels || id:ebi-a-GCST004432	exposure	Weighted mode	39	-0.329819205582798	0.482495616921611	0.498394391028104
+EXeeTg	ebi-a-GCST004432	Platelet-derived growth factor BB levels || id:ebi-a-GCST004432	exposure	Simple mode	39	-0.282106734458387	0.505224296705671	0.579860971499891
+EXeeTg	ebi-a-GCST004432	Platelet-derived growth factor BB levels || id:ebi-a-GCST004432	exposure	MR Egger	39	-0.396406139270541	0.888332091007922	0.658027171128985
+EXeeTg	ebi-a-GCST004432	Platelet-derived growth factor BB levels || id:ebi-a-GCST004432	exposure	MR RAPS	39	0.0360694664503985	0.18142443700774	0.842409328911902
+EXeeTg	ebi-a-GCST004432	Platelet-derived growth factor BB levels || id:ebi-a-GCST004432	exposure	PRESSO	39	0.0328458249979397	0.141473408118897	0.817652130680124

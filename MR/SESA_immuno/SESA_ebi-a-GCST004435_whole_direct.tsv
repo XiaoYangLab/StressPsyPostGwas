@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST004435	exposure	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	0.0044170037074171	0.00986477662515265	FALSE	0.0457767911522002

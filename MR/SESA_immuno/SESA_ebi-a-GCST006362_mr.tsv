@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST006362	Anti-Epstein-Barr virus viral capsid antigen (VCA) IgG levels || id:ebi-a-GCST006362	exposure	Inverse variance weighted (fixed effects)	39	0.195348990222036	0.231537487226041	0.398835106736783
+EXeeTg	ebi-a-GCST006362	Anti-Epstein-Barr virus viral capsid antigen (VCA) IgG levels || id:ebi-a-GCST006362	exposure	Weighted median	39	0.311455571266192	0.336573435171155	0.354772533468239
+EXeeTg	ebi-a-GCST006362	Anti-Epstein-Barr virus viral capsid antigen (VCA) IgG levels || id:ebi-a-GCST006362	exposure	Weighted mode	39	0.675121176657885	0.712042292781719	0.349045425072999
+EXeeTg	ebi-a-GCST006362	Anti-Epstein-Barr virus viral capsid antigen (VCA) IgG levels || id:ebi-a-GCST006362	exposure	Simple mode	39	0.61863881443169	0.724480144236574	0.398507521389395
+EXeeTg	ebi-a-GCST006362	Anti-Epstein-Barr virus viral capsid antigen (VCA) IgG levels || id:ebi-a-GCST006362	exposure	MR Egger	39	0.864267615342633	1.17003013528161	0.464766810036658
+EXeeTg	ebi-a-GCST006362	Anti-Epstein-Barr virus viral capsid antigen (VCA) IgG levels || id:ebi-a-GCST006362	exposure	MR RAPS	39	0.202104756855427	0.242988788532998	0.405552785487484
+EXeeTg	ebi-a-GCST006362	Anti-Epstein-Barr virus viral capsid antigen (VCA) IgG levels || id:ebi-a-GCST006362	exposure	PRESSO	39	0.195348990222036	0.21203060419064	0.362693596362016

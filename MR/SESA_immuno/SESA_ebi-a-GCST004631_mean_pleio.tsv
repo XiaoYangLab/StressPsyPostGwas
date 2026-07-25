@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	-0.0028330090911097	0.00291061147140319	0.337685922930952

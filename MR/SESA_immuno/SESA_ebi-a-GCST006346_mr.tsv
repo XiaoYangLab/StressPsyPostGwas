@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST006346	Anti-herpes simplex virus 1 IgG levels || id:ebi-a-GCST006346	exposure	Inverse variance weighted (fixed effects)	39	0.0960873989447138	0.159551213225035	0.547017412151384
+EXeeTg	ebi-a-GCST006346	Anti-herpes simplex virus 1 IgG levels || id:ebi-a-GCST006346	exposure	Weighted median	39	0.22039351431114	0.22877132186118	0.33535730171479
+EXeeTg	ebi-a-GCST006346	Anti-herpes simplex virus 1 IgG levels || id:ebi-a-GCST006346	exposure	Weighted mode	39	0.556428362670319	0.522247131502724	0.293395390174501
+EXeeTg	ebi-a-GCST006346	Anti-herpes simplex virus 1 IgG levels || id:ebi-a-GCST006346	exposure	Simple mode	39	0.566731669587317	0.563484863333946	0.320891827205244
+EXeeTg	ebi-a-GCST006346	Anti-herpes simplex virus 1 IgG levels || id:ebi-a-GCST006346	exposure	MR Egger	39	-0.425920163533389	0.808880707182621	0.601645277771456
+EXeeTg	ebi-a-GCST006346	Anti-herpes simplex virus 1 IgG levels || id:ebi-a-GCST006346	exposure	MR RAPS	39	0.119861204223597	0.167330709668609	0.473797947976704
+EXeeTg	ebi-a-GCST006346	Anti-herpes simplex virus 1 IgG levels || id:ebi-a-GCST006346	exposure	PRESSO	39	0.0960873989447138	0.139751164649258	0.495904988256508

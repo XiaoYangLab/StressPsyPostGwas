@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels || id:ebi-a-GCST004437	exposure	Inverse variance weighted (fixed effects)	38	-0.72417341231323	0.483276806449883	0.134012462030862
+EXeeTg	ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels || id:ebi-a-GCST004437	exposure	Weighted median	38	-0.522569717315501	0.648118128165627	0.420076943250879
+EXeeTg	ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels || id:ebi-a-GCST004437	exposure	Weighted mode	38	-0.567878456271062	1.28189957458244	0.660346819172396
+EXeeTg	ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels || id:ebi-a-GCST004437	exposure	Simple mode	38	-0.504071606565825	1.34098732290805	0.709141002442788
+EXeeTg	ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels || id:ebi-a-GCST004437	exposure	MR Egger	38	0.231454530196919	2.92348193729385	0.937335192047103
+EXeeTg	ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels || id:ebi-a-GCST004437	exposure	MR RAPS	38	-0.708315991211417	0.503827872868725	0.159763026100025
+EXeeTg	ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels || id:ebi-a-GCST004437	exposure	PRESSO	38	-0.72417341231323	0.352927061746375	0.0473055449638716

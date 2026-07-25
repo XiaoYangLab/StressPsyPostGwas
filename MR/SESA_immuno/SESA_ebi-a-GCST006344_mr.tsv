@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST006344	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	exposure	Inverse variance weighted (fixed effects)	32	0.531970482925863	0.248941045852542	0.0326033934397086
+EXeeTg	ebi-a-GCST006344	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	exposure	Weighted median	32	0.41335870226142	0.338844869257539	0.222500720078066
+EXeeTg	ebi-a-GCST006344	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	exposure	Weighted mode	32	0.675604800001257	0.686863275687584	0.332922843990982
+EXeeTg	ebi-a-GCST006344	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	exposure	Simple mode	32	0.55006729857033	0.73129682852033	0.457616049590902
+EXeeTg	ebi-a-GCST006344	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	exposure	MR Egger	32	1.12070172425496	1.36770089323892	0.419017459035364
+EXeeTg	ebi-a-GCST006344	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	exposure	MR RAPS	32	0.526841704587343	0.260939298010753	0.0434851236376236
+EXeeTg	ebi-a-GCST006344	Anti-cytomegalovirus IgG levels || id:ebi-a-GCST006344	exposure	PRESSO	32	0.531970482925863	0.199234769294711	0.0119654874354949

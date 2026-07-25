@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST004447	Interleukin-1-receptor antagonist levels || id:ebi-a-GCST004447	exposure	Inverse variance weighted (fixed effects)	36	0.232061859728668	0.270280353800893	0.390562977950519
+EXeeTg	ebi-a-GCST004447	Interleukin-1-receptor antagonist levels || id:ebi-a-GCST004447	exposure	Weighted median	36	0.337821435310141	0.384511558407603	0.379632894387528
+EXeeTg	ebi-a-GCST004447	Interleukin-1-receptor antagonist levels || id:ebi-a-GCST004447	exposure	Weighted mode	36	0.331697663623285	0.780201381275158	0.67333453167249
+EXeeTg	ebi-a-GCST004447	Interleukin-1-receptor antagonist levels || id:ebi-a-GCST004447	exposure	Simple mode	36	1.07765247505105	0.821121619143758	0.197921946104933
+EXeeTg	ebi-a-GCST004447	Interleukin-1-receptor antagonist levels || id:ebi-a-GCST004447	exposure	MR Egger	36	-0.488827241715811	1.44141678900342	0.736597795271777
+EXeeTg	ebi-a-GCST004447	Interleukin-1-receptor antagonist levels || id:ebi-a-GCST004447	exposure	MR RAPS	36	0.302363367612535	0.284602175372279	0.28805091862151
+EXeeTg	ebi-a-GCST004447	Interleukin-1-receptor antagonist levels || id:ebi-a-GCST004447	exposure	PRESSO	36	0.232061859728668	0.261240021147984	0.380438960438794
