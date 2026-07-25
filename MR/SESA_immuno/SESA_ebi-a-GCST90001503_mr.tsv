@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001503	Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503	exposure	Inverse variance weighted (fixed effects)	36	0.0852340151724492	0.299918137765305	0.776264064122521
-EXeeTg	ebi-a-GCST90001503	Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503	exposure	Weighted median	36	0.00447357786330371	0.433991569860864	0.991775564903161
-EXeeTg	ebi-a-GCST90001503	Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503	exposure	Weighted mode	36	-0.0551182083917228	0.792469597309997	0.944945751442433
-EXeeTg	ebi-a-GCST90001503	Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503	exposure	Simple mode	36	-0.152914846015435	0.820551064899878	0.853241330270814
-EXeeTg	ebi-a-GCST90001503	Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503	exposure	MR Egger	36	1.40789536290469	1.48134246694254	0.348607165775862
-EXeeTg	ebi-a-GCST90001503	Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503	exposure	MR RAPS	36	0.0453813040279452	0.314074274145639	0.885111762037235
-EXeeTg	ebi-a-GCST90001503	Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503	exposure	PRESSO	36	0.0852340151724492	0.252395756621387	0.737606480661873

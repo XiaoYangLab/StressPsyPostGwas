@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001578	Transitional B cell %lymphocyte || id:ebi-a-GCST90001578	exposure	Inverse variance weighted (fixed effects)	38	-0.229526974530866	0.275313523100968	0.404453967848341
-EXeeTg	ebi-a-GCST90001578	Transitional B cell %lymphocyte || id:ebi-a-GCST90001578	exposure	Weighted median	38	-0.208579886486457	0.381978593855129	0.585030712708969
-EXeeTg	ebi-a-GCST90001578	Transitional B cell %lymphocyte || id:ebi-a-GCST90001578	exposure	Weighted mode	38	-0.784452581608167	0.744086237955306	0.298604681229026
-EXeeTg	ebi-a-GCST90001578	Transitional B cell %lymphocyte || id:ebi-a-GCST90001578	exposure	Simple mode	38	-0.784452581608167	0.802954293045668	0.334934662961714
-EXeeTg	ebi-a-GCST90001578	Transitional B cell %lymphocyte || id:ebi-a-GCST90001578	exposure	MR Egger	38	0.573760002716078	1.38645549079147	0.681452125264064
-EXeeTg	ebi-a-GCST90001578	Transitional B cell %lymphocyte || id:ebi-a-GCST90001578	exposure	MR RAPS	38	-0.24630019165031	0.288391973916276	0.393079156673163
-EXeeTg	ebi-a-GCST90001578	Transitional B cell %lymphocyte || id:ebi-a-GCST90001578	exposure	PRESSO	38	-0.229526974530866	0.24266156655973	0.35035000680292

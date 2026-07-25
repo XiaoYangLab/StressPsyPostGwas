@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90000475	interleukin-18 receptor 1 levels || id:ebi-a-GCST90000475	exposure	Inverse variance weighted (fixed effects)	39	0.0400882299767198	0.501664512552689	0.936308489564003
-EXeeTg	ebi-a-GCST90000475	interleukin-18 receptor 1 levels || id:ebi-a-GCST90000475	exposure	Weighted median	39	0.0865311012857665	0.736471173231909	0.906468429220075
-EXeeTg	ebi-a-GCST90000475	interleukin-18 receptor 1 levels || id:ebi-a-GCST90000475	exposure	Weighted mode	39	-2.35311749848272	1.88944917524725	0.220610196837969
-EXeeTg	ebi-a-GCST90000475	interleukin-18 receptor 1 levels || id:ebi-a-GCST90000475	exposure	Simple mode	39	-2.35311749848272	2.01212641951772	0.24949850915892
-EXeeTg	ebi-a-GCST90000475	interleukin-18 receptor 1 levels || id:ebi-a-GCST90000475	exposure	MR Egger	39	0.726617180612665	2.52224400575123	0.774890370761642
-EXeeTg	ebi-a-GCST90000475	interleukin-18 receptor 1 levels || id:ebi-a-GCST90000475	exposure	MR RAPS	39	-0.00765528495787675	0.580107761759091	0.989471169314714
-EXeeTg	ebi-a-GCST90000475	interleukin-18 receptor 1 levels || id:ebi-a-GCST90000475	exposure	PRESSO	39	0.0400882299767198	0.520758555206117	0.939042993418363

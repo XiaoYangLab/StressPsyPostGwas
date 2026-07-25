@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004600	Eosinophil percentage of white cells || id:ebi-a-GCST004600	exposure	Inverse variance weighted (fixed effects)	29	-0.0102425605907658	0.0460335312092497	0.823922984124646
-EXeeTg	ebi-a-GCST004600	Eosinophil percentage of white cells || id:ebi-a-GCST004600	exposure	Weighted median	29	-0.037966839189808	0.0620267392292228	0.540468695243466
-EXeeTg	ebi-a-GCST004600	Eosinophil percentage of white cells || id:ebi-a-GCST004600	exposure	Weighted mode	29	-0.131587954589902	0.125531648786295	0.303490095969327
-EXeeTg	ebi-a-GCST004600	Eosinophil percentage of white cells || id:ebi-a-GCST004600	exposure	Simple mode	29	-0.128969673891586	0.129248215070377	0.326900397381681
-EXeeTg	ebi-a-GCST004600	Eosinophil percentage of white cells || id:ebi-a-GCST004600	exposure	MR Egger	29	-0.063530299614475	0.202097156430531	0.75566750579304
-EXeeTg	ebi-a-GCST004600	Eosinophil percentage of white cells || id:ebi-a-GCST004600	exposure	MR RAPS	29	-0.0138208085358066	0.0481813908561526	0.774227548822412
-EXeeTg	ebi-a-GCST004600	Eosinophil percentage of white cells || id:ebi-a-GCST004600	exposure	PRESSO	29	-0.0102425605907658	0.0373784826183215	0.78607846891339

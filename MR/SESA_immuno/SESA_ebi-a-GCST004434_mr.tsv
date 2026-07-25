@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004434	Macrophage inflammatory protein 1a levels || id:ebi-a-GCST004434	exposure	Inverse variance weighted (fixed effects)	39	0.157885108205491	0.264680389575948	0.550833038746953
-EXeeTg	ebi-a-GCST004434	Macrophage inflammatory protein 1a levels || id:ebi-a-GCST004434	exposure	Weighted median	39	0.40171130601288	0.3760501387833	0.285412858393976
-EXeeTg	ebi-a-GCST004434	Macrophage inflammatory protein 1a levels || id:ebi-a-GCST004434	exposure	Weighted mode	39	0.64653206051458	0.828798814196808	0.440174011562092
-EXeeTg	ebi-a-GCST004434	Macrophage inflammatory protein 1a levels || id:ebi-a-GCST004434	exposure	Simple mode	39	0.702916908455242	0.820598302451374	0.397040867849148
-EXeeTg	ebi-a-GCST004434	Macrophage inflammatory protein 1a levels || id:ebi-a-GCST004434	exposure	MR Egger	39	0.676684235439552	1.4287444395822	0.638552526050955
-EXeeTg	ebi-a-GCST004434	Macrophage inflammatory protein 1a levels || id:ebi-a-GCST004434	exposure	MR RAPS	39	0.163213516028336	0.277940285890753	0.557052527742904
-EXeeTg	ebi-a-GCST004434	Macrophage inflammatory protein 1a levels || id:ebi-a-GCST004434	exposure	PRESSO	39	0.157885108205491	0.232689944228421	0.50155268959215

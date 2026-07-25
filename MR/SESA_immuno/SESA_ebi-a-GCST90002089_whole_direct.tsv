@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90002089	exposure	CD11c on monocyte || id:ebi-a-GCST90002089	0.00424265002021672	0.00865200941867728	FALSE	0.13595738914517

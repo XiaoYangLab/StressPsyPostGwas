@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002104	HLA DR on myeloid Dendritic Cell || id:ebi-a-GCST90002104	exposure	Inverse variance weighted (fixed effects)	39	0.378047014270534	0.318956408888451	0.23591374516655
-EXeeTg	ebi-a-GCST90002104	HLA DR on myeloid Dendritic Cell || id:ebi-a-GCST90002104	exposure	Weighted median	39	0.0535161121697693	0.438925962372412	0.902958300345646
-EXeeTg	ebi-a-GCST90002104	HLA DR on myeloid Dendritic Cell || id:ebi-a-GCST90002104	exposure	Weighted mode	39	-0.0164031762374233	0.778642817002365	0.98330294441476
-EXeeTg	ebi-a-GCST90002104	HLA DR on myeloid Dendritic Cell || id:ebi-a-GCST90002104	exposure	Simple mode	39	-0.0164031762374233	0.889858310845376	0.985389501333056
-EXeeTg	ebi-a-GCST90002104	HLA DR on myeloid Dendritic Cell || id:ebi-a-GCST90002104	exposure	MR Egger	39	2.00783051451904	1.80746199096804	0.273797138318601
-EXeeTg	ebi-a-GCST90002104	HLA DR on myeloid Dendritic Cell || id:ebi-a-GCST90002104	exposure	MR RAPS	39	0.35947157182014	0.333553089686936	0.281165775333679
-EXeeTg	ebi-a-GCST90002104	HLA DR on myeloid Dendritic Cell || id:ebi-a-GCST90002104	exposure	PRESSO	39	0.378047014270534	0.266658974947449	0.164421687162874

@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001426	IgD- CD38dim B cell %lymphocyte || id:ebi-a-GCST90001426	exposure	Inverse variance weighted (fixed effects)	36	0.0395632948149127	0.288843790463036	0.891053520672394
-EXeeTg	ebi-a-GCST90001426	IgD- CD38dim B cell %lymphocyte || id:ebi-a-GCST90001426	exposure	Weighted median	36	0.240762431281143	0.399391075011385	0.546625935806751
-EXeeTg	ebi-a-GCST90001426	IgD- CD38dim B cell %lymphocyte || id:ebi-a-GCST90001426	exposure	Weighted mode	36	0.352032540701553	0.687263865209658	0.611712094027901
-EXeeTg	ebi-a-GCST90001426	IgD- CD38dim B cell %lymphocyte || id:ebi-a-GCST90001426	exposure	Simple mode	36	0.385305223099704	0.767966524776379	0.619005123784696
-EXeeTg	ebi-a-GCST90001426	IgD- CD38dim B cell %lymphocyte || id:ebi-a-GCST90001426	exposure	MR Egger	36	1.50715222939823	1.60896010164602	0.355506768785897
-EXeeTg	ebi-a-GCST90001426	IgD- CD38dim B cell %lymphocyte || id:ebi-a-GCST90001426	exposure	MR RAPS	36	0.0858507478239758	0.300535056995018	0.775138790037245
-EXeeTg	ebi-a-GCST90001426	IgD- CD38dim B cell %lymphocyte || id:ebi-a-GCST90001426	exposure	PRESSO	36	0.0395632948149127	0.208516594218641	0.850611414879763

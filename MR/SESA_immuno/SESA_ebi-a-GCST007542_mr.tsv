@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST007542	High IL-1beta levels in gingival crevicular fluid || id:ebi-a-GCST007542	exposure	Inverse variance weighted (fixed effects)	32	0.710980674468112	0.611660093781985	0.245081664894026
-EXeeTg	ebi-a-GCST007542	High IL-1beta levels in gingival crevicular fluid || id:ebi-a-GCST007542	exposure	Weighted median	32	0.243956633141729	0.883610854850511	0.782478495899708
-EXeeTg	ebi-a-GCST007542	High IL-1beta levels in gingival crevicular fluid || id:ebi-a-GCST007542	exposure	Weighted mode	32	-0.129562525535356	1.63211177766379	0.937237940712217
-EXeeTg	ebi-a-GCST007542	High IL-1beta levels in gingival crevicular fluid || id:ebi-a-GCST007542	exposure	Simple mode	32	-0.53274518326587	1.84992051610479	0.775276598151347
-EXeeTg	ebi-a-GCST007542	High IL-1beta levels in gingival crevicular fluid || id:ebi-a-GCST007542	exposure	MR Egger	32	-0.541147924365663	3.08531542054286	0.861948011599474
-EXeeTg	ebi-a-GCST007542	High IL-1beta levels in gingival crevicular fluid || id:ebi-a-GCST007542	exposure	MR RAPS	32	0.729726556436383	0.642009127983484	0.255693174908146
-EXeeTg	ebi-a-GCST007542	High IL-1beta levels in gingival crevicular fluid || id:ebi-a-GCST007542	exposure	PRESSO	32	0.710980674468112	0.538325069645067	0.196259845452628

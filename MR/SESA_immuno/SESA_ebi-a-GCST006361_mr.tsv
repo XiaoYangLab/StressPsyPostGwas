@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006361	Anti-Epstein-Barr virus nuclear antigen (EBNA) IgG levels || id:ebi-a-GCST006361	exposure	Inverse variance weighted (fixed effects)	33	0.229634685773946	0.312550979530508	0.462515435742641
-EXeeTg	ebi-a-GCST006361	Anti-Epstein-Barr virus nuclear antigen (EBNA) IgG levels || id:ebi-a-GCST006361	exposure	Weighted median	33	0.406890082272504	0.40900237848009	0.319816281377689
-EXeeTg	ebi-a-GCST006361	Anti-Epstein-Barr virus nuclear antigen (EBNA) IgG levels || id:ebi-a-GCST006361	exposure	Weighted mode	33	0.639169441553401	0.869241072623093	0.46750069881522
-EXeeTg	ebi-a-GCST006361	Anti-Epstein-Barr virus nuclear antigen (EBNA) IgG levels || id:ebi-a-GCST006361	exposure	Simple mode	33	0.605126183388981	0.886979377503345	0.500000868807475
-EXeeTg	ebi-a-GCST006361	Anti-Epstein-Barr virus nuclear antigen (EBNA) IgG levels || id:ebi-a-GCST006361	exposure	MR Egger	33	-1.33204291908534	1.53396587614733	0.391867493568524
-EXeeTg	ebi-a-GCST006361	Anti-Epstein-Barr virus nuclear antigen (EBNA) IgG levels || id:ebi-a-GCST006361	exposure	MR RAPS	33	0.244013671625738	0.325102755266588	0.45290908045042
-EXeeTg	ebi-a-GCST006361	Anti-Epstein-Barr virus nuclear antigen (EBNA) IgG levels || id:ebi-a-GCST006361	exposure	PRESSO	33	0.229634685773946	0.215089798335829	0.293679283607879

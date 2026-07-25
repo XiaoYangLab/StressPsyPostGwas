@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001564	Central Memory CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001564	exposure	Inverse variance weighted (fixed effects)	37	-0.372238367907525	0.267241177624356	0.16365214694582
-EXeeTg	ebi-a-GCST90001564	Central Memory CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001564	exposure	Weighted median	37	-0.0674584811096608	0.371964742424006	0.856087217692645
-EXeeTg	ebi-a-GCST90001564	Central Memory CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001564	exposure	Weighted mode	37	0.176227440682021	0.695826679154263	0.801505411029527
-EXeeTg	ebi-a-GCST90001564	Central Memory CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001564	exposure	Simple mode	37	0.215417085045206	0.741491735429909	0.77308665041718
-EXeeTg	ebi-a-GCST90001564	Central Memory CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001564	exposure	MR Egger	37	-0.882893167609313	1.39516178491367	0.530961118635917
-EXeeTg	ebi-a-GCST90001564	Central Memory CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001564	exposure	MR RAPS	37	-0.376078946406413	0.279591674000653	0.178592728760265
-EXeeTg	ebi-a-GCST90001564	Central Memory CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001564	exposure	PRESSO	37	-0.372238367907525	0.222778626531924	0.103416287966115

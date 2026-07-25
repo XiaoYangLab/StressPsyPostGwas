@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001841	exposure	CD3 on Central Memory CD4+ T cell || id:ebi-a-GCST90001841	0.00428040749878355	0.00963897677882278	FALSE	0.0765180324534193

@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001566	Naive CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001566	exposure	Inverse variance weighted (fixed effects)	40	-0.346070635373919	0.22659714568856	0.126698698789359
-EXeeTg	ebi-a-GCST90001566	Naive CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001566	exposure	Weighted median	40	-0.435148109335459	0.32831420805205	0.185038054594674
-EXeeTg	ebi-a-GCST90001566	Naive CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001566	exposure	Weighted mode	40	-0.531526465770898	0.603450927713073	0.383815908559402
-EXeeTg	ebi-a-GCST90001566	Naive CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001566	exposure	Simple mode	40	-0.333390584098975	0.671555518608141	0.622366968326537
-EXeeTg	ebi-a-GCST90001566	Naive CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001566	exposure	MR Egger	40	-0.615736484590845	1.14509237751942	0.593907330950811
-EXeeTg	ebi-a-GCST90001566	Naive CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001566	exposure	MR RAPS	40	-0.358309511724806	0.237406831414448	0.131231408437218
-EXeeTg	ebi-a-GCST90001566	Naive CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001566	exposure	PRESSO	40	-0.346070635373919	0.193940882951174	0.0821378063301253

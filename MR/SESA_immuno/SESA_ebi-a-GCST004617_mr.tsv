@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004617	Eosinophil percentage of granulocytes || id:ebi-a-GCST004617	exposure	Inverse variance weighted (fixed effects)	28	-0.00871719945972913	0.0464359386082594	0.851092013985494
-EXeeTg	ebi-a-GCST004617	Eosinophil percentage of granulocytes || id:ebi-a-GCST004617	exposure	Weighted median	28	-0.0766694138670474	0.0648376512697031	0.237014146871002
-EXeeTg	ebi-a-GCST004617	Eosinophil percentage of granulocytes || id:ebi-a-GCST004617	exposure	Weighted mode	28	-0.154322928893219	0.123852827775873	0.223461270543454
-EXeeTg	ebi-a-GCST004617	Eosinophil percentage of granulocytes || id:ebi-a-GCST004617	exposure	Simple mode	28	-0.154322928893219	0.13494765339854	0.262837727555991
-EXeeTg	ebi-a-GCST004617	Eosinophil percentage of granulocytes || id:ebi-a-GCST004617	exposure	MR Egger	28	-0.0689929688008851	0.20435725375366	0.73836802446502
-EXeeTg	ebi-a-GCST004617	Eosinophil percentage of granulocytes || id:ebi-a-GCST004617	exposure	MR RAPS	28	-0.0109680777195981	0.048599610836175	0.82144843320818
-EXeeTg	ebi-a-GCST004617	Eosinophil percentage of granulocytes || id:ebi-a-GCST004617	exposure	PRESSO	28	-0.00871719945972913	0.0379849108603885	0.820216856872585

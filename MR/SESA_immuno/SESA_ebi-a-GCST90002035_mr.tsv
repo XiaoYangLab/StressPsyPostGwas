@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002035	CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035	exposure	Inverse variance weighted (fixed effects)	38	-0.579205264323926	0.309831654683973	0.0615645062999579
-EXeeTg	ebi-a-GCST90002035	CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035	exposure	Weighted median	38	-0.537491983045629	0.411104347177966	0.191065206157543
-EXeeTg	ebi-a-GCST90002035	CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035	exposure	Weighted mode	38	-0.226876815328454	0.750629264630626	0.764154961653469
-EXeeTg	ebi-a-GCST90002035	CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035	exposure	Simple mode	38	-0.108257147550732	0.805638113015046	0.893834812438875
-EXeeTg	ebi-a-GCST90002035	CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035	exposure	MR Egger	38	-1.25743091646929	1.54285484207538	0.420430000720006
-EXeeTg	ebi-a-GCST90002035	CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035	exposure	MR RAPS	38	-0.573985601549848	0.323056397420544	0.0756118542561881
-EXeeTg	ebi-a-GCST90002035	CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035	exposure	PRESSO	38	-0.579205264323926	0.228278628939345	0.0155185191397036

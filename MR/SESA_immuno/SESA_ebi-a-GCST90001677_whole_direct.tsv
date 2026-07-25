@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001677	exposure	CD28- CD25++ CD8+ T cell %CD8+ T cell || id:ebi-a-GCST90001677	0.00450758280760706	0.0129281350720698	FALSE	0.0086064775357704

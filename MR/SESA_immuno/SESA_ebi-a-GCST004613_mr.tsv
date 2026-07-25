@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004613	Sum neutrophil eosinophil counts || id:ebi-a-GCST004613	exposure	Inverse variance weighted (fixed effects)	29	0.0478001183894092	0.0458157713308557	0.296804074138674
-EXeeTg	ebi-a-GCST004613	Sum neutrophil eosinophil counts || id:ebi-a-GCST004613	exposure	Weighted median	29	0.0627387972042451	0.068546119738761	0.360045385303354
-EXeeTg	ebi-a-GCST004613	Sum neutrophil eosinophil counts || id:ebi-a-GCST004613	exposure	Weighted mode	29	0.0687725803806681	0.130249752020147	0.601655453105589
-EXeeTg	ebi-a-GCST004613	Sum neutrophil eosinophil counts || id:ebi-a-GCST004613	exposure	Simple mode	29	0.0304568791182006	0.152632605772734	0.843279516965517
-EXeeTg	ebi-a-GCST004613	Sum neutrophil eosinophil counts || id:ebi-a-GCST004613	exposure	MR Egger	29	0.146002851445588	0.230785382553309	0.532293858804726
-EXeeTg	ebi-a-GCST004613	Sum neutrophil eosinophil counts || id:ebi-a-GCST004613	exposure	MR RAPS	29	0.0482502332034321	0.0485973506958426	0.320779513238775
-EXeeTg	ebi-a-GCST004613	Sum neutrophil eosinophil counts || id:ebi-a-GCST004613	exposure	PRESSO	29	0.0478001183894092	0.0433656706735041	0.279734551818619

@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004440	Interferon gamma-induced protein 10 levels || id:ebi-a-GCST004440	exposure	Inverse variance weighted (fixed effects)	39	0.173386911247896	0.260260668900348	0.50528019454506
-EXeeTg	ebi-a-GCST004440	Interferon gamma-induced protein 10 levels || id:ebi-a-GCST004440	exposure	Weighted median	39	-0.0247328962922094	0.355920776956999	0.944599678352612
-EXeeTg	ebi-a-GCST004440	Interferon gamma-induced protein 10 levels || id:ebi-a-GCST004440	exposure	Weighted mode	39	0.128367510935896	0.708285369910018	0.857144802767843
-EXeeTg	ebi-a-GCST004440	Interferon gamma-induced protein 10 levels || id:ebi-a-GCST004440	exposure	Simple mode	39	0.281136330650313	0.745550670303072	0.708207823824666
-EXeeTg	ebi-a-GCST004440	Interferon gamma-induced protein 10 levels || id:ebi-a-GCST004440	exposure	MR Egger	39	-0.646903206722183	1.40007932431379	0.646752689683268
-EXeeTg	ebi-a-GCST004440	Interferon gamma-induced protein 10 levels || id:ebi-a-GCST004440	exposure	MR RAPS	39	0.178137592023548	0.271553158679377	0.511827157226291
-EXeeTg	ebi-a-GCST004440	Interferon gamma-induced protein 10 levels || id:ebi-a-GCST004440	exposure	PRESSO	39	0.173386911247896	0.192892430614291	0.374377979273784

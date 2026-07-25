@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006363	Anti-Helicobacter pylori IgG levels || id:ebi-a-GCST006363	exposure	Inverse variance weighted (fixed effects)	39	0.13461085474656	0.361735679267824	0.709799855347988
-EXeeTg	ebi-a-GCST006363	Anti-Helicobacter pylori IgG levels || id:ebi-a-GCST006363	exposure	Weighted median	39	0.684532092472577	0.504310752231343	0.174666316198262
-EXeeTg	ebi-a-GCST006363	Anti-Helicobacter pylori IgG levels || id:ebi-a-GCST006363	exposure	Weighted mode	39	1.37350363802305	1.10025765978387	0.219540855452064
-EXeeTg	ebi-a-GCST006363	Anti-Helicobacter pylori IgG levels || id:ebi-a-GCST006363	exposure	Simple mode	39	1.3980483340559	1.18412576162581	0.245075921703502
-EXeeTg	ebi-a-GCST006363	Anti-Helicobacter pylori IgG levels || id:ebi-a-GCST006363	exposure	MR Egger	39	1.16575611417018	1.84286822209507	0.530900024678156
-EXeeTg	ebi-a-GCST006363	Anti-Helicobacter pylori IgG levels || id:ebi-a-GCST006363	exposure	MR RAPS	39	0.16235422515281	0.379374310074383	0.668685625043139
-EXeeTg	ebi-a-GCST006363	Anti-Helicobacter pylori IgG levels || id:ebi-a-GCST006363	exposure	PRESSO	39	0.13461085474656	0.32130368172909	0.677609884588837

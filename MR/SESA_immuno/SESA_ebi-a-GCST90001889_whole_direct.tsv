@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001889	exposure	CD28 on activated & secreting CD4 regulatory T cell || id:ebi-a-GCST90001889	0.0042536095756864	0.00928473198135873	FALSE	0.0918198935639875

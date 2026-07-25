@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST011833	Complement C4 levels || id:ebi-a-GCST011833	exposure	Inverse variance weighted (fixed effects)	35	0.361934170557701	0.258441493353023	0.161378859564706
-EXeeTg	ebi-a-GCST011833	Complement C4 levels || id:ebi-a-GCST011833	exposure	Weighted median	35	0.231165852294575	0.361662461094753	0.52270864633983
-EXeeTg	ebi-a-GCST011833	Complement C4 levels || id:ebi-a-GCST011833	exposure	Weighted mode	35	0.426143720703937	0.757462533722447	0.577402519461829
-EXeeTg	ebi-a-GCST011833	Complement C4 levels || id:ebi-a-GCST011833	exposure	Simple mode	35	0.837892508941731	0.760178071261644	0.278102307394856
-EXeeTg	ebi-a-GCST011833	Complement C4 levels || id:ebi-a-GCST011833	exposure	MR Egger	35	0.349307097300195	1.31788149226441	0.792618083545974
-EXeeTg	ebi-a-GCST011833	Complement C4 levels || id:ebi-a-GCST011833	exposure	MR RAPS	35	0.384623411716906	0.271235004774048	0.156177660152016
-EXeeTg	ebi-a-GCST011833	Complement C4 levels || id:ebi-a-GCST011833	exposure	PRESSO	35	0.361934170557701	0.224127076120355	0.115584180755917

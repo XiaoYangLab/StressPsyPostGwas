@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004609	Monocyte percentage of white cells || id:ebi-a-GCST004609	exposure	Inverse variance weighted (fixed effects)	31	-0.0532424684549995	0.0440220009947391	0.226489491600416
-EXeeTg	ebi-a-GCST004609	Monocyte percentage of white cells || id:ebi-a-GCST004609	exposure	Weighted median	31	-0.0443157736919533	0.0601730490751582	0.461443421698562
-EXeeTg	ebi-a-GCST004609	Monocyte percentage of white cells || id:ebi-a-GCST004609	exposure	Weighted mode	31	-0.0548000775158944	0.118297654243139	0.646536302309018
-EXeeTg	ebi-a-GCST004609	Monocyte percentage of white cells || id:ebi-a-GCST004609	exposure	Simple mode	31	-0.0138299768376136	0.124497921125743	0.91228802676425
-EXeeTg	ebi-a-GCST004609	Monocyte percentage of white cells || id:ebi-a-GCST004609	exposure	MR Egger	31	0.0821053719418323	0.242444016525158	0.737307966062694
-EXeeTg	ebi-a-GCST004609	Monocyte percentage of white cells || id:ebi-a-GCST004609	exposure	MR RAPS	31	-0.0576989655749891	0.0461113385031125	0.21082625001151
-EXeeTg	ebi-a-GCST004609	Monocyte percentage of white cells || id:ebi-a-GCST004609	exposure	PRESSO	31	-0.0532424684549995	0.0370611365084856	0.161175887276934

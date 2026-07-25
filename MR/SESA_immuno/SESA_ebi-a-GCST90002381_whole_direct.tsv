@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90002381	exposure	Eosinophil counts || id:ebi-a-GCST90002381	0.00248297343812505	6.34183583488694e-05	TRUE	8.28135947529556e-74

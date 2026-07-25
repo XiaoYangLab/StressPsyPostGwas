@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001582	CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582	exposure	Inverse variance weighted (fixed effects)	38	-0.397533629869647	0.283100605600804	0.160255348591018
-EXeeTg	ebi-a-GCST90001582	CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582	exposure	Weighted median	38	-0.212163195427463	0.397417698560993	0.593442258385777
-EXeeTg	ebi-a-GCST90001582	CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582	exposure	Weighted mode	38	-0.0326322423194725	0.73267525768247	0.964714689268462
-EXeeTg	ebi-a-GCST90001582	CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582	exposure	Simple mode	38	0.318906371959052	0.896718317615431	0.724131934150526
-EXeeTg	ebi-a-GCST90001582	CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582	exposure	MR Egger	38	-2.69202105569608	1.5721335535641	0.0954373137278256
-EXeeTg	ebi-a-GCST90001582	CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582	exposure	MR RAPS	38	-0.38705309151737	0.302310881372061	0.200434449444142
-EXeeTg	ebi-a-GCST90001582	CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582	exposure	PRESSO	38	-0.397533629869647	0.285225679323439	0.171708172843938

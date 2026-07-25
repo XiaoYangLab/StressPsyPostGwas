@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006349	Anti-Toxoplasma gondii IgG levels || id:ebi-a-GCST006349	exposure	Inverse variance weighted (fixed effects)	37	0.147934611388427	0.255811318314917	0.563064428431633
-EXeeTg	ebi-a-GCST006349	Anti-Toxoplasma gondii IgG levels || id:ebi-a-GCST006349	exposure	Weighted median	37	0.0561019989233461	0.354947782422016	0.874411845288851
-EXeeTg	ebi-a-GCST006349	Anti-Toxoplasma gondii IgG levels || id:ebi-a-GCST006349	exposure	Weighted mode	37	0.0414069514471676	0.663031403293515	0.950549166207043
-EXeeTg	ebi-a-GCST006349	Anti-Toxoplasma gondii IgG levels || id:ebi-a-GCST006349	exposure	Simple mode	37	0.151061599594144	0.703725586857815	0.831243924053773
-EXeeTg	ebi-a-GCST006349	Anti-Toxoplasma gondii IgG levels || id:ebi-a-GCST006349	exposure	MR Egger	37	-0.268150738662261	1.26253144465669	0.833033875666149
-EXeeTg	ebi-a-GCST006349	Anti-Toxoplasma gondii IgG levels || id:ebi-a-GCST006349	exposure	MR RAPS	37	0.178692191651164	0.267960325223311	0.504861159853603
-EXeeTg	ebi-a-GCST006349	Anti-Toxoplasma gondii IgG levels || id:ebi-a-GCST006349	exposure	PRESSO	37	0.147934611388427	0.227047144027066	0.518823838032247

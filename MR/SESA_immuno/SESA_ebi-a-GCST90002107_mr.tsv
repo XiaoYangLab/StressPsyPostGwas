@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002107	HLA DR on Hematopoietic Stem Cell || id:ebi-a-GCST90002107	exposure	Inverse variance weighted (fixed effects)	11	1.33383293910109	0.810564186217833	0.0998541420257779
-EXeeTg	ebi-a-GCST90002107	HLA DR on Hematopoietic Stem Cell || id:ebi-a-GCST90002107	exposure	Weighted median	11	0.83829742176469	1.06965370551388	0.433210778382508
-EXeeTg	ebi-a-GCST90002107	HLA DR on Hematopoietic Stem Cell || id:ebi-a-GCST90002107	exposure	Weighted mode	11	-0.0565547425965836	1.79071944742808	0.9754267467687
-EXeeTg	ebi-a-GCST90002107	HLA DR on Hematopoietic Stem Cell || id:ebi-a-GCST90002107	exposure	Simple mode	11	0.265009710518301	1.96861425809848	0.895585318093066
-EXeeTg	ebi-a-GCST90002107	HLA DR on Hematopoietic Stem Cell || id:ebi-a-GCST90002107	exposure	MR Egger	11	-7.10437087138633	13.8834305346127	0.621168293258717
-EXeeTg	ebi-a-GCST90002107	HLA DR on Hematopoietic Stem Cell || id:ebi-a-GCST90002107	exposure	MR RAPS	11	1.38402034697301	0.856646910740496	0.106175369447404
-EXeeTg	ebi-a-GCST90002107	HLA DR on Hematopoietic Stem Cell || id:ebi-a-GCST90002107	exposure	PRESSO	11	1.33383293910109	0.724188636994667	0.095312437257123

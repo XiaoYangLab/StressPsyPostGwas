@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001577	Transitional B cell Absolute Count || id:ebi-a-GCST90001577	exposure	Inverse variance weighted (fixed effects)	37	-0.437570752742057	0.275419736334549	0.112118775541641
-EXeeTg	ebi-a-GCST90001577	Transitional B cell Absolute Count || id:ebi-a-GCST90001577	exposure	Weighted median	37	-0.49814964642935	0.407454646787624	0.221484898226184
-EXeeTg	ebi-a-GCST90001577	Transitional B cell Absolute Count || id:ebi-a-GCST90001577	exposure	Weighted mode	37	-0.596365588356512	0.689377271366839	0.392723890529495
-EXeeTg	ebi-a-GCST90001577	Transitional B cell Absolute Count || id:ebi-a-GCST90001577	exposure	Simple mode	37	-0.551503427546983	0.82042746538091	0.505738725943903
-EXeeTg	ebi-a-GCST90001577	Transitional B cell Absolute Count || id:ebi-a-GCST90001577	exposure	MR Egger	37	0.352637253381078	1.38095343081482	0.799941441256551
-EXeeTg	ebi-a-GCST90001577	Transitional B cell Absolute Count || id:ebi-a-GCST90001577	exposure	MR RAPS	37	-0.489004489359958	0.289838863030916	0.0915726215195591
-EXeeTg	ebi-a-GCST90001577	Transitional B cell Absolute Count || id:ebi-a-GCST90001577	exposure	PRESSO	37	-0.437570752742057	0.267075696386928	0.110055164931817

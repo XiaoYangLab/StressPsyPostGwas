@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002047	CD45 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002047	exposure	Inverse variance weighted (fixed effects)	37	0.32325309940488	0.455849685509203	0.478248691783538
-EXeeTg	ebi-a-GCST90002047	CD45 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002047	exposure	Weighted median	37	0.0965659863585788	0.639116760898167	0.879902455996511
-EXeeTg	ebi-a-GCST90002047	CD45 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002047	exposure	Weighted mode	37	0.370806399021052	1.0174532890942	0.717657345336771
-EXeeTg	ebi-a-GCST90002047	CD45 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002047	exposure	Simple mode	37	-0.0876792435303608	1.29291696893929	0.946308112700841
-EXeeTg	ebi-a-GCST90002047	CD45 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002047	exposure	MR Egger	37	3.08554223504245	2.22580984599909	0.174437176864166
-EXeeTg	ebi-a-GCST90002047	CD45 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002047	exposure	MR RAPS	37	0.27321038161462	0.477051952053161	0.566843963958801
-EXeeTg	ebi-a-GCST90002047	CD45 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002047	exposure	PRESSO	37	0.32325309940488	0.389949563483735	0.412589025302959

@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006345	Anti-Epstein-Barr virus early antigen (EA) IgG levels || id:ebi-a-GCST006345	exposure	Inverse variance weighted (fixed effects)	36	0.731219123166583	0.672518364993822	0.27691088044214
-EXeeTg	ebi-a-GCST006345	Anti-Epstein-Barr virus early antigen (EA) IgG levels || id:ebi-a-GCST006345	exposure	Weighted median	36	0.417645488519239	0.912434433060967	0.64714889252738
-EXeeTg	ebi-a-GCST006345	Anti-Epstein-Barr virus early antigen (EA) IgG levels || id:ebi-a-GCST006345	exposure	Weighted mode	36	0.0663605900598156	1.92362450644443	0.972676286508829
-EXeeTg	ebi-a-GCST006345	Anti-Epstein-Barr virus early antigen (EA) IgG levels || id:ebi-a-GCST006345	exposure	Simple mode	36	0.0663605900598156	1.86010191725419	0.971743580478755
-EXeeTg	ebi-a-GCST006345	Anti-Epstein-Barr virus early antigen (EA) IgG levels || id:ebi-a-GCST006345	exposure	MR Egger	36	-1.22309124915151	3.39989081103118	0.721263326884141
-EXeeTg	ebi-a-GCST006345	Anti-Epstein-Barr virus early antigen (EA) IgG levels || id:ebi-a-GCST006345	exposure	MR RAPS	36	0.736850207209094	0.70075043380415	0.293021721115712
-EXeeTg	ebi-a-GCST006345	Anti-Epstein-Barr virus early antigen (EA) IgG levels || id:ebi-a-GCST006345	exposure	PRESSO	36	0.731219123166583	0.502083176709097	0.154203227075705

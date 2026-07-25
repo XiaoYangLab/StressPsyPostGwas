@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001823	exposure	IgD on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001823	0.0041846209891574	0.022754210132722	FALSE	0.000197148447992943

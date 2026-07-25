@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001468	CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468	exposure	Inverse variance weighted (fixed effects)	37	-0.328014633473315	0.308978184193909	0.288412326181714
-EXeeTg	ebi-a-GCST90001468	CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468	exposure	Weighted median	37	-0.151177438227382	0.43189876723283	0.726316334982627
-EXeeTg	ebi-a-GCST90001468	CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468	exposure	Weighted mode	37	-0.0919282713827929	0.767984425333962	0.905385772792626
-EXeeTg	ebi-a-GCST90001468	CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468	exposure	Simple mode	37	0.0718796911445043	0.819439628929577	0.930586862031521
-EXeeTg	ebi-a-GCST90001468	CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468	exposure	MR Egger	37	-2.3835208746921	1.54387381073488	0.131617481196803
-EXeeTg	ebi-a-GCST90001468	CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468	exposure	MR RAPS	37	-0.321445656009822	0.321765663851426	0.317792044849222
-EXeeTg	ebi-a-GCST90001468	CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468	exposure	PRESSO	37	-0.328014633473315	0.233328179926292	0.168353680699719

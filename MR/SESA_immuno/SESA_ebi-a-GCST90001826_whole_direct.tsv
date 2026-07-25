@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001826	exposure	IgD on unswitched memory B cell || id:ebi-a-GCST90001826	0.00422296572550608	0.0143407805830641	FALSE	0.000922382229316343

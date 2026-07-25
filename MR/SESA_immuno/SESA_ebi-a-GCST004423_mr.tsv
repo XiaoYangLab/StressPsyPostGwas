@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels || id:ebi-a-GCST004423	exposure	Inverse variance weighted (fixed effects)	40	0.38472063206342	0.264496262264063	0.1457964019488
-EXeeTg	ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels || id:ebi-a-GCST004423	exposure	Weighted median	40	0.532736765804609	0.358879880144002	0.137691404831166
-EXeeTg	ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels || id:ebi-a-GCST004423	exposure	Weighted mode	40	0.873472408681988	0.690920421628854	0.213656305352651
-EXeeTg	ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels || id:ebi-a-GCST004423	exposure	Simple mode	40	0.857775969116872	0.764502904575529	0.268721014003675
-EXeeTg	ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels || id:ebi-a-GCST004423	exposure	MR Egger	40	0.970083623494851	1.37316537140771	0.484212796779074
-EXeeTg	ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels || id:ebi-a-GCST004423	exposure	MR RAPS	40	0.41676347506453	0.275864124459156	0.130850542127422
-EXeeTg	ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels || id:ebi-a-GCST004423	exposure	PRESSO	40	0.38472063206342	0.190274807446296	0.0500830636959255

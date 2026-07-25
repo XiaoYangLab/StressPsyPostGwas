@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006350	Anti-influenza A virus IgG levels || id:ebi-a-GCST006350	exposure	Inverse variance weighted (fixed effects)	36	-0.115517085251912	0.0879077138236279	0.188821899437041
-EXeeTg	ebi-a-GCST006350	Anti-influenza A virus IgG levels || id:ebi-a-GCST006350	exposure	Weighted median	36	-0.0320179032933888	0.118915346743711	0.787737654209294
-EXeeTg	ebi-a-GCST006350	Anti-influenza A virus IgG levels || id:ebi-a-GCST006350	exposure	Weighted mode	36	0.251526370435347	0.254659962815536	0.330081306676351
-EXeeTg	ebi-a-GCST006350	Anti-influenza A virus IgG levels || id:ebi-a-GCST006350	exposure	Simple mode	36	0.219247276244374	0.29228610732263	0.458200416743162
-EXeeTg	ebi-a-GCST006350	Anti-influenza A virus IgG levels || id:ebi-a-GCST006350	exposure	MR Egger	36	0.104743391605623	0.435748098460584	0.811482266698539
-EXeeTg	ebi-a-GCST006350	Anti-influenza A virus IgG levels || id:ebi-a-GCST006350	exposure	MR RAPS	36	-0.118439616717746	0.0921821843629894	0.198847219395299
-EXeeTg	ebi-a-GCST006350	Anti-influenza A virus IgG levels || id:ebi-a-GCST006350	exposure	PRESSO	36	-0.115517085251912	0.0747453332969883	0.131226329858791

@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001915	exposure	CD45 on T cell || id:ebi-a-GCST90001915	0.00427893965942781	0.0102905352441816	FALSE	0.0439502775345857

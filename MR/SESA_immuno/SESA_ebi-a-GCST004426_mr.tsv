@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004426	Tumor necrosis factor alpha levels || id:ebi-a-GCST004426	exposure	Inverse variance weighted (fixed effects)	36	-0.104618875124783	0.276789352214104	0.705450723244793
-EXeeTg	ebi-a-GCST004426	Tumor necrosis factor alpha levels || id:ebi-a-GCST004426	exposure	Weighted median	36	0.0719424460431655	0.388215357701449	0.852981333006725
-EXeeTg	ebi-a-GCST004426	Tumor necrosis factor alpha levels || id:ebi-a-GCST004426	exposure	Weighted mode	36	0.603998733479206	0.770889457693689	0.438598471742038
-EXeeTg	ebi-a-GCST004426	Tumor necrosis factor alpha levels || id:ebi-a-GCST004426	exposure	Simple mode	36	0.66137806150977	0.791506996278237	0.409051865628096
-EXeeTg	ebi-a-GCST004426	Tumor necrosis factor alpha levels || id:ebi-a-GCST004426	exposure	MR Egger	36	-0.683698400898188	1.46797423300333	0.644369480939987
-EXeeTg	ebi-a-GCST004426	Tumor necrosis factor alpha levels || id:ebi-a-GCST004426	exposure	MR RAPS	36	-0.0954752352811752	0.288952937189074	0.741084185212492
-EXeeTg	ebi-a-GCST004426	Tumor necrosis factor alpha levels || id:ebi-a-GCST004426	exposure	PRESSO	36	-0.104618875124783	0.219250044952387	0.636209428738246

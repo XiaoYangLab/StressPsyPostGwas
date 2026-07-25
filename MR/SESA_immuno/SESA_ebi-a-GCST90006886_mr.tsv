@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90006886	Anti-chlamydia trachomatis IgG seropositivity || id:ebi-a-GCST90006886	exposure	Inverse variance weighted (fixed effects)	39	-0.0543260071161606	0.0643520149099703	0.398557340881029
-EXeeTg	ebi-a-GCST90006886	Anti-chlamydia trachomatis IgG seropositivity || id:ebi-a-GCST90006886	exposure	Weighted median	39	-0.0167152310729246	0.0897436092900908	0.852244487793025
-EXeeTg	ebi-a-GCST90006886	Anti-chlamydia trachomatis IgG seropositivity || id:ebi-a-GCST90006886	exposure	Weighted mode	39	0.0148473847475541	0.183696310951406	0.936004762205517
-EXeeTg	ebi-a-GCST90006886	Anti-chlamydia trachomatis IgG seropositivity || id:ebi-a-GCST90006886	exposure	Simple mode	39	-0.0215483882392111	0.180628716445183	0.905668855798254
-EXeeTg	ebi-a-GCST90006886	Anti-chlamydia trachomatis IgG seropositivity || id:ebi-a-GCST90006886	exposure	MR Egger	39	-0.251908020767455	0.286216794399795	0.384469872414482
-EXeeTg	ebi-a-GCST90006886	Anti-chlamydia trachomatis IgG seropositivity || id:ebi-a-GCST90006886	exposure	MR RAPS	39	-0.0513224280177799	0.0670950210612767	0.444318256138116
-EXeeTg	ebi-a-GCST90006886	Anti-chlamydia trachomatis IgG seropositivity || id:ebi-a-GCST90006886	exposure	PRESSO	39	-0.0543260071161606	0.0478395714205066	0.263241124380626

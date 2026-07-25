@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	Inverse variance weighted (fixed effects)	38	0.53999031793327	0.265437576196617	0.0419173119484918
-EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	Weighted median	38	0.3807865378824	0.385125115875571	0.322792996205492
-EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	Weighted mode	38	0.339291310893723	0.83503923267005	0.686849711216729
-EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	Simple mode	38	0.282789897086631	0.870054824629807	0.746992612508449
-EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	MR Egger	38	1.94687161433928	1.40655315202087	0.174835749451194
-EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	MR RAPS	38	0.561629364853178	0.28233983347395	0.0466795351671311
-EXeeTg	ebi-a-GCST004435	Monokine induced by gamma interferon levels || id:ebi-a-GCST004435	exposure	PRESSO	38	0.53999031793327	0.247529862134477	0.0355736317958748

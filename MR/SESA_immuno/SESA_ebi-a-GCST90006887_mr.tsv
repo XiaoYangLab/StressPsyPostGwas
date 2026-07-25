@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90006887	Chlamydia trachomatis momp A antibody levels || id:ebi-a-GCST90006887	exposure	Inverse variance weighted (fixed effects)	39	0.091604897992906	0.482689997049495	0.849481544421529
-EXeeTg	ebi-a-GCST90006887	Chlamydia trachomatis momp A antibody levels || id:ebi-a-GCST90006887	exposure	Weighted median	39	0.566603910269342	0.709607455592659	0.424594815819906
-EXeeTg	ebi-a-GCST90006887	Chlamydia trachomatis momp A antibody levels || id:ebi-a-GCST90006887	exposure	Weighted mode	39	0.737802873454013	1.44306822553445	0.612117499405086
-EXeeTg	ebi-a-GCST90006887	Chlamydia trachomatis momp A antibody levels || id:ebi-a-GCST90006887	exposure	Simple mode	39	0.52865509364077	1.57044857195103	0.738250281384181
-EXeeTg	ebi-a-GCST90006887	Chlamydia trachomatis momp A antibody levels || id:ebi-a-GCST90006887	exposure	MR Egger	39	-0.733357396145887	2.14330180427059	0.73416467648738
-EXeeTg	ebi-a-GCST90006887	Chlamydia trachomatis momp A antibody levels || id:ebi-a-GCST90006887	exposure	MR RAPS	39	0.0623398924460181	0.505956421145302	0.901939239181932
-EXeeTg	ebi-a-GCST90006887	Chlamydia trachomatis momp A antibody levels || id:ebi-a-GCST90006887	exposure	PRESSO	39	0.091604897992906	0.42518992224659	0.830572866193094

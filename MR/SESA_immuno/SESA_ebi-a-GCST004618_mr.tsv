@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004618	White blood cell count (basophil) || id:ebi-a-GCST004618	exposure	Inverse variance weighted (fixed effects)	34	0.0689875220918055	0.0398728968867512	0.0835970751814685
-EXeeTg	ebi-a-GCST004618	White blood cell count (basophil) || id:ebi-a-GCST004618	exposure	Weighted median	34	0.109352649643429	0.0591594735689837	0.0645389309002252
-EXeeTg	ebi-a-GCST004618	White blood cell count (basophil) || id:ebi-a-GCST004618	exposure	Weighted mode	34	0.139138811939247	0.1215593108394	0.260602328588867
-EXeeTg	ebi-a-GCST004618	White blood cell count (basophil) || id:ebi-a-GCST004618	exposure	Simple mode	34	0.0869248857393022	0.134782394606041	0.523432719001614
-EXeeTg	ebi-a-GCST004618	White blood cell count (basophil) || id:ebi-a-GCST004618	exposure	MR Egger	34	0.297538405496904	0.171750908363413	0.0928352301500192
-EXeeTg	ebi-a-GCST004618	White blood cell count (basophil) || id:ebi-a-GCST004618	exposure	MR RAPS	34	0.0727944976936055	0.0432866121945466	0.0926297084487217
-EXeeTg	ebi-a-GCST004618	White blood cell count (basophil) || id:ebi-a-GCST004618	exposure	PRESSO	34	0.0689875220918055	0.0390856024838962	0.0868114397627021

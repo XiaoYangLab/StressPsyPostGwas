@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90000504	Tumor necrosis factor ligand superfamily member 12 levels || id:ebi-a-GCST90000504	exposure	Inverse variance weighted (fixed effects)	38	0.44089983932979	0.506363882907275	0.38390848003612
-EXeeTg	ebi-a-GCST90000504	Tumor necrosis factor ligand superfamily member 12 levels || id:ebi-a-GCST90000504	exposure	Weighted median	38	0.569759420943355	0.72322137671234	0.430809154705138
-EXeeTg	ebi-a-GCST90000504	Tumor necrosis factor ligand superfamily member 12 levels || id:ebi-a-GCST90000504	exposure	Weighted mode	38	1.57425140222413	1.42363022724288	0.275951257488594
-EXeeTg	ebi-a-GCST90000504	Tumor necrosis factor ligand superfamily member 12 levels || id:ebi-a-GCST90000504	exposure	Simple mode	38	1.37688603329589	1.49455754710041	0.362879466005376
-EXeeTg	ebi-a-GCST90000504	Tumor necrosis factor ligand superfamily member 12 levels || id:ebi-a-GCST90000504	exposure	MR Egger	38	4.75198696266364	2.47446577980494	0.0627553413254557
-EXeeTg	ebi-a-GCST90000504	Tumor necrosis factor ligand superfamily member 12 levels || id:ebi-a-GCST90000504	exposure	MR RAPS	38	0.414029659123601	0.529340757452814	0.434120002383979
-EXeeTg	ebi-a-GCST90000504	Tumor necrosis factor ligand superfamily member 12 levels || id:ebi-a-GCST90000504	exposure	PRESSO	38	0.44089983932979	0.401904742237676	0.279718756867661

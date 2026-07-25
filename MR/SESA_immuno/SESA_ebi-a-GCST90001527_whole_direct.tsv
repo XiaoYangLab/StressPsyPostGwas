@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001527	exposure	CD33dim HLA DR+ CD11b- Absolute Count || id:ebi-a-GCST90001527	0.00424059841778865	0.0173915372142296	FALSE	0.00376969929822063

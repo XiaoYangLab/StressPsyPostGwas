@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002016	CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016	exposure	Inverse variance weighted (fixed effects)	39	0.0127918313207913	0.310144073934694	0.967100736181363
-EXeeTg	ebi-a-GCST90002016	CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016	exposure	Weighted median	39	-0.00769168521248586	0.445382202974477	0.986221335768197
-EXeeTg	ebi-a-GCST90002016	CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016	exposure	Weighted mode	39	-0.209439091601817	0.820347415689069	0.799864087214163
-EXeeTg	ebi-a-GCST90002016	CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016	exposure	Simple mode	39	-0.391170050944193	0.888951119603498	0.662404185110507
-EXeeTg	ebi-a-GCST90002016	CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016	exposure	MR Egger	39	1.94771403961082	1.53735635630646	0.213099396351013
-EXeeTg	ebi-a-GCST90002016	CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016	exposure	MR RAPS	39	-0.0391594335699692	0.32526357564402	0.904171894934368
-EXeeTg	ebi-a-GCST90002016	CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016	exposure	PRESSO	39	0.0127918313207913	0.282570015035421	0.964129484007632

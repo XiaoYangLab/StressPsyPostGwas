@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	Inverse variance weighted (fixed effects)	34	0.081525557943352	0.0393967131650201	0.0385133273088166
-EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	Weighted median	34	0.103328238587786	0.0576286252934508	0.0729726093274402
-EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	Weighted mode	34	0.110234249261475	0.106093330553481	0.306343802341125
-EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	Simple mode	34	0.124992862327452	0.108704280904674	0.258473613642564
-EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	MR Egger	34	0.246593074500237	0.174105017978719	0.166335415349623
-EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	MR RAPS	34	0.0869322698914548	0.0412551128663731	0.0351013053430931
-EXeeTg	ebi-a-GCST004631	Basophil percentage of white cells || id:ebi-a-GCST004631	exposure	PRESSO	34	0.081525557943352	0.0334639078555067	0.0204042315820577

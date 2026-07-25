@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001474	Plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001474	exposure	Inverse variance weighted (fixed effects)	37	-0.316200359944315	0.291671630940299	0.27832176268344
-EXeeTg	ebi-a-GCST90001474	Plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001474	exposure	Weighted median	37	-0.251508751718652	0.422065881150985	0.551242518960707
-EXeeTg	ebi-a-GCST90001474	Plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001474	exposure	Weighted mode	37	0.50230869198672	0.780694689575894	0.524034258245157
-EXeeTg	ebi-a-GCST90001474	Plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001474	exposure	Simple mode	37	0.624393944981584	0.863137987950569	0.474108639502524
-EXeeTg	ebi-a-GCST90001474	Plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001474	exposure	MR Egger	37	1.12683932404052	1.48627222105917	0.453427439843882
-EXeeTg	ebi-a-GCST90001474	Plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001474	exposure	MR RAPS	37	-0.341795254306303	0.306151676864082	0.264240441062283
-EXeeTg	ebi-a-GCST90001474	Plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001474	exposure	PRESSO	37	-0.316200359944315	0.25690187503156	0.226370934761467

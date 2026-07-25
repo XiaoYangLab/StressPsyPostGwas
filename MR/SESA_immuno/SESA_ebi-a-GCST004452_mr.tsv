@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004452	Interleukin-5 levels || id:ebi-a-GCST004452	exposure	Inverse variance weighted (fixed effects)	38	-0.156198288923412	0.273447736978215	0.567851829831117
-EXeeTg	ebi-a-GCST004452	Interleukin-5 levels || id:ebi-a-GCST004452	exposure	Weighted median	38	-0.191287597018982	0.377331915735115	0.612191422174304
-EXeeTg	ebi-a-GCST004452	Interleukin-5 levels || id:ebi-a-GCST004452	exposure	Weighted mode	38	-0.428946914923372	0.6931257669397	0.539801213876746
-EXeeTg	ebi-a-GCST004452	Interleukin-5 levels || id:ebi-a-GCST004452	exposure	Simple mode	38	-0.393935886370016	0.753346851385115	0.604151397012804
-EXeeTg	ebi-a-GCST004452	Interleukin-5 levels || id:ebi-a-GCST004452	exposure	MR Egger	38	-1.02447052420386	1.48608263388962	0.495006105931956
-EXeeTg	ebi-a-GCST004452	Interleukin-5 levels || id:ebi-a-GCST004452	exposure	MR RAPS	38	-0.118001938505731	0.285904119104755	0.67980256794043
-EXeeTg	ebi-a-GCST004452	Interleukin-5 levels || id:ebi-a-GCST004452	exposure	PRESSO	38	-0.156198288923412	0.234787751211313	0.510001013040644

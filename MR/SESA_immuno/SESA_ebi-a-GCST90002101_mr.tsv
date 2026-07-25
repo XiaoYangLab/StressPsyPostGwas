@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002101	CD45RA on Terminally Differentiated CD8+ T cell || id:ebi-a-GCST90002101	exposure	Inverse variance weighted (fixed effects)	37	0.0195655578007316	0.311641752129905	0.94993993260502
-EXeeTg	ebi-a-GCST90002101	CD45RA on Terminally Differentiated CD8+ T cell || id:ebi-a-GCST90002101	exposure	Weighted median	37	0.0762554779320255	0.445861750340988	0.864200630173192
-EXeeTg	ebi-a-GCST90002101	CD45RA on Terminally Differentiated CD8+ T cell || id:ebi-a-GCST90002101	exposure	Weighted mode	37	-0.696246928539686	0.795102279552089	0.387015104949152
-EXeeTg	ebi-a-GCST90002101	CD45RA on Terminally Differentiated CD8+ T cell || id:ebi-a-GCST90002101	exposure	Simple mode	37	0.938760649815011	0.957881987717641	0.333608007464207
-EXeeTg	ebi-a-GCST90002101	CD45RA on Terminally Differentiated CD8+ T cell || id:ebi-a-GCST90002101	exposure	MR Egger	37	-0.88369608743317	1.52889228992003	0.566966230474679
-EXeeTg	ebi-a-GCST90002101	CD45RA on Terminally Differentiated CD8+ T cell || id:ebi-a-GCST90002101	exposure	MR RAPS	37	0.0196156960494732	0.326895303660763	0.952150815896316
-EXeeTg	ebi-a-GCST90002101	CD45RA on Terminally Differentiated CD8+ T cell || id:ebi-a-GCST90002101	exposure	PRESSO	37	0.0195655578007316	0.281998438850832	0.945069688525484

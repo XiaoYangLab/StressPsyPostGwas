@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001652	Granulocyte %leukocyte || id:ebi-a-GCST90001652	exposure	Inverse variance weighted (fixed effects)	38	-0.293866542305939	0.291864556245987	0.314002393722173
-EXeeTg	ebi-a-GCST90001652	Granulocyte %leukocyte || id:ebi-a-GCST90001652	exposure	Weighted median	38	-0.350246448029939	0.398590982382372	0.379557765219855
-EXeeTg	ebi-a-GCST90001652	Granulocyte %leukocyte || id:ebi-a-GCST90001652	exposure	Weighted mode	38	-0.748137363048132	0.865998617991852	0.393208155066273
-EXeeTg	ebi-a-GCST90001652	Granulocyte %leukocyte || id:ebi-a-GCST90001652	exposure	Simple mode	38	-0.922088442738338	0.824134828701624	0.270412882676657
-EXeeTg	ebi-a-GCST90001652	Granulocyte %leukocyte || id:ebi-a-GCST90001652	exposure	MR Egger	38	2.50241518670937	1.50412641510067	0.104854998634681
-EXeeTg	ebi-a-GCST90001652	Granulocyte %leukocyte || id:ebi-a-GCST90001652	exposure	MR RAPS	38	-0.326374180128773	0.305488856033537	0.285355044691719
-EXeeTg	ebi-a-GCST90001652	Granulocyte %leukocyte || id:ebi-a-GCST90001652	exposure	PRESSO	38	-0.293866542305939	0.240500937338532	0.229475696029755

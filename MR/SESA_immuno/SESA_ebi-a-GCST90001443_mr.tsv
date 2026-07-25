@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001443	CD20- B cell %lymphocyte || id:ebi-a-GCST90001443	exposure	Inverse variance weighted (fixed effects)	39	-0.408138557826812	0.274629124689489	0.137240909080024
-EXeeTg	ebi-a-GCST90001443	CD20- B cell %lymphocyte || id:ebi-a-GCST90001443	exposure	Weighted median	39	-0.496155946480214	0.37580414092323	0.186751093037391
-EXeeTg	ebi-a-GCST90001443	CD20- B cell %lymphocyte || id:ebi-a-GCST90001443	exposure	Weighted mode	39	-0.726224540304726	0.77994868795795	0.357670481835783
-EXeeTg	ebi-a-GCST90001443	CD20- B cell %lymphocyte || id:ebi-a-GCST90001443	exposure	Simple mode	39	-0.220894783479324	0.748357084750088	0.769468543660137
-EXeeTg	ebi-a-GCST90001443	CD20- B cell %lymphocyte || id:ebi-a-GCST90001443	exposure	MR Egger	39	-1.36537557169675	1.36838865962717	0.324858393075125
-EXeeTg	ebi-a-GCST90001443	CD20- B cell %lymphocyte || id:ebi-a-GCST90001443	exposure	MR RAPS	39	-0.431995910527156	0.286625409033195	0.13176468035036
-EXeeTg	ebi-a-GCST90001443	CD20- B cell %lymphocyte || id:ebi-a-GCST90001443	exposure	PRESSO	39	-0.408138557826812	0.210389217864101	0.0598378054214383

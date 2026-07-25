@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90006884	Anti-BK polyomavirus IgG seropositivity || id:ebi-a-GCST90006884	exposure	Inverse variance weighted (fixed effects)	39	-0.00746863474982537	0.0348402001159627	0.83025985374255
-EXeeTg	ebi-a-GCST90006884	Anti-BK polyomavirus IgG seropositivity || id:ebi-a-GCST90006884	exposure	Weighted median	39	-0.0251150668551447	0.0484832431395867	0.604447520816169
-EXeeTg	ebi-a-GCST90006884	Anti-BK polyomavirus IgG seropositivity || id:ebi-a-GCST90006884	exposure	Weighted mode	39	-0.0866995409908263	0.0962039543201825	0.373155596508703
-EXeeTg	ebi-a-GCST90006884	Anti-BK polyomavirus IgG seropositivity || id:ebi-a-GCST90006884	exposure	Simple mode	39	-0.0802531825442421	0.101123097126918	0.432345369845865
-EXeeTg	ebi-a-GCST90006884	Anti-BK polyomavirus IgG seropositivity || id:ebi-a-GCST90006884	exposure	MR Egger	39	-0.0972184456894642	0.154878423638328	0.534050337023056
-EXeeTg	ebi-a-GCST90006884	Anti-BK polyomavirus IgG seropositivity || id:ebi-a-GCST90006884	exposure	MR RAPS	39	-0.00753866600796337	0.0361546691414807	0.8348295672708
-EXeeTg	ebi-a-GCST90006884	Anti-BK polyomavirus IgG seropositivity || id:ebi-a-GCST90006884	exposure	PRESSO	39	-0.00746863474982537	0.0215663609705133	0.731020423679696

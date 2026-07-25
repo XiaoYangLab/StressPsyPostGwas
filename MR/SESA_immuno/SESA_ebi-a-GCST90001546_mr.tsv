@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001546	Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546	exposure	Inverse variance weighted (fixed effects)	38	0.321070337316639	0.28160346287807	0.254223593560834
-EXeeTg	ebi-a-GCST90001546	Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546	exposure	Weighted median	38	0.242035726061542	0.400156500135874	0.54527689610698
-EXeeTg	ebi-a-GCST90001546	Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546	exposure	Weighted mode	38	-0.0412449594247626	0.853007817451196	0.961695473659536
-EXeeTg	ebi-a-GCST90001546	Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546	exposure	Simple mode	38	-0.309452509798357	0.846890102172324	0.716894493956655
-EXeeTg	ebi-a-GCST90001546	Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546	exposure	MR Egger	38	1.03407760856985	1.42487621473093	0.472695250857253
-EXeeTg	ebi-a-GCST90001546	Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546	exposure	MR RAPS	38	0.320166485586757	0.295342160527974	0.278341404591362
-EXeeTg	ebi-a-GCST90001546	Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546	exposure	PRESSO	38	0.321070337316639	0.251633426389443	0.209927103233847

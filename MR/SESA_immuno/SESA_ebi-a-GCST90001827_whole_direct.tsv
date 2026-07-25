@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001827	exposure	IgD on IgD+ B cell || id:ebi-a-GCST90001827	0.00425054764520555	0.00857804004945618	FALSE	0.097032146904862

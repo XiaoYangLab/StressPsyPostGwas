@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006348	Anti-varicella zoster virus IgG levels || id:ebi-a-GCST006348	exposure	Inverse variance weighted (fixed effects)	35	-0.120977616007769	0.105579697565721	0.251860673721566
-EXeeTg	ebi-a-GCST006348	Anti-varicella zoster virus IgG levels || id:ebi-a-GCST006348	exposure	Weighted median	35	-0.216669875657915	0.149598895383871	0.147522338234463
-EXeeTg	ebi-a-GCST006348	Anti-varicella zoster virus IgG levels || id:ebi-a-GCST006348	exposure	Weighted mode	35	-0.324212903190429	0.270580249177603	0.239119818857551
-EXeeTg	ebi-a-GCST006348	Anti-varicella zoster virus IgG levels || id:ebi-a-GCST006348	exposure	Simple mode	35	-0.324212903190429	0.283983397586532	0.261571831985341
-EXeeTg	ebi-a-GCST006348	Anti-varicella zoster virus IgG levels || id:ebi-a-GCST006348	exposure	MR Egger	35	0.063948927405785	0.518405677208285	0.902572738079015
-EXeeTg	ebi-a-GCST006348	Anti-varicella zoster virus IgG levels || id:ebi-a-GCST006348	exposure	MR RAPS	35	-0.143532611021722	0.110758803377032	0.195009075262816
-EXeeTg	ebi-a-GCST006348	Anti-varicella zoster virus IgG levels || id:ebi-a-GCST006348	exposure	PRESSO	35	-0.120977616007769	0.0943414581042838	0.208398657964396

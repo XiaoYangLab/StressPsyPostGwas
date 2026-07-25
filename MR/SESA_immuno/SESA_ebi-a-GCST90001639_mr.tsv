@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001639	CD3- lymphocyte Absolute Count || id:ebi-a-GCST90001639	exposure	Inverse variance weighted (fixed effects)	36	0.00811854267934514	0.289826686428407	0.977652807210706
-EXeeTg	ebi-a-GCST90001639	CD3- lymphocyte Absolute Count || id:ebi-a-GCST90001639	exposure	Weighted median	36	0.0581513318657413	0.401404844745767	0.8848138828304
-EXeeTg	ebi-a-GCST90001639	CD3- lymphocyte Absolute Count || id:ebi-a-GCST90001639	exposure	Weighted mode	36	-0.98146829508089	0.820211442873691	0.239503896419399
-EXeeTg	ebi-a-GCST90001639	CD3- lymphocyte Absolute Count || id:ebi-a-GCST90001639	exposure	Simple mode	36	0.739381259660976	0.875678326560914	0.404207019302028
-EXeeTg	ebi-a-GCST90001639	CD3- lymphocyte Absolute Count || id:ebi-a-GCST90001639	exposure	MR Egger	36	-1.35053693168355	1.49603238497604	0.373012281147757
-EXeeTg	ebi-a-GCST90001639	CD3- lymphocyte Absolute Count || id:ebi-a-GCST90001639	exposure	MR RAPS	36	0.0148236768036307	0.302955358641318	0.960974893902124
-EXeeTg	ebi-a-GCST90001639	CD3- lymphocyte Absolute Count || id:ebi-a-GCST90001639	exposure	PRESSO	36	0.00811854267934514	0.23360797442861	0.972474267558777

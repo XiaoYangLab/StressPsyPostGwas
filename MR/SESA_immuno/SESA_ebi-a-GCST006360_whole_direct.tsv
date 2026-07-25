@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST006360	exposure	IgA levels || id:ebi-a-GCST006360	0.00435606172434209	0.0331371188611693	FALSE	0.000198994199748009

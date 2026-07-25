@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001845	exposure	CD3 on CD45RA- CD4+ T cell || id:ebi-a-GCST90001845	0.00454454238767013	0.00798896589815675	FALSE	0.235199903845622

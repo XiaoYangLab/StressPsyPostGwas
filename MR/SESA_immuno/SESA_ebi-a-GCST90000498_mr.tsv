@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90000498	Transforming growth factor-alpha levels || id:ebi-a-GCST90000498	exposure	Inverse variance weighted (fixed effects)	36	-0.0995927308122172	0.520088360656313	0.848140192150472
-EXeeTg	ebi-a-GCST90000498	Transforming growth factor-alpha levels || id:ebi-a-GCST90000498	exposure	Weighted median	36	0.050481382889899	0.728007868669359	0.944717546699326
-EXeeTg	ebi-a-GCST90000498	Transforming growth factor-alpha levels || id:ebi-a-GCST90000498	exposure	Weighted mode	36	-0.188167225675877	1.31533932389733	0.887066359319882
-EXeeTg	ebi-a-GCST90000498	Transforming growth factor-alpha levels || id:ebi-a-GCST90000498	exposure	Simple mode	36	-0.217312974217487	1.45855050338431	0.88241479414951
-EXeeTg	ebi-a-GCST90000498	Transforming growth factor-alpha levels || id:ebi-a-GCST90000498	exposure	MR Egger	36	0.808235013967928	2.47112658101417	0.745619033023391
-EXeeTg	ebi-a-GCST90000498	Transforming growth factor-alpha levels || id:ebi-a-GCST90000498	exposure	MR RAPS	36	-0.0531657732557252	0.541351839493112	0.921766115369077
-EXeeTg	ebi-a-GCST90000498	Transforming growth factor-alpha levels || id:ebi-a-GCST90000498	exposure	PRESSO	36	-0.0995927308122172	0.372385342388136	0.790696016074688

@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006352	Anti-mumps virus IgG levels || id:ebi-a-GCST006352	exposure	Inverse variance weighted (fixed effects)	35	0.0957309607249718	0.095672201778449	0.317013377066627
-EXeeTg	ebi-a-GCST006352	Anti-mumps virus IgG levels || id:ebi-a-GCST006352	exposure	Weighted median	35	-0.0325550724577943	0.139204372266629	0.815089551839953
-EXeeTg	ebi-a-GCST006352	Anti-mumps virus IgG levels || id:ebi-a-GCST006352	exposure	Weighted mode	35	-0.115288675544553	0.257429574197007	0.657105375794111
-EXeeTg	ebi-a-GCST006352	Anti-mumps virus IgG levels || id:ebi-a-GCST006352	exposure	Simple mode	35	-0.14567369651209	0.285754093828224	0.613494138154817
-EXeeTg	ebi-a-GCST006352	Anti-mumps virus IgG levels || id:ebi-a-GCST006352	exposure	MR Egger	35	-0.189421316884903	0.517441380638632	0.716647071549092
-EXeeTg	ebi-a-GCST006352	Anti-mumps virus IgG levels || id:ebi-a-GCST006352	exposure	MR RAPS	35	0.0905854442285523	0.10011625450697	0.365569990697436
-EXeeTg	ebi-a-GCST006352	Anti-mumps virus IgG levels || id:ebi-a-GCST006352	exposure	PRESSO	35	0.0957309607249718	0.0803062508707216	0.241486525437519

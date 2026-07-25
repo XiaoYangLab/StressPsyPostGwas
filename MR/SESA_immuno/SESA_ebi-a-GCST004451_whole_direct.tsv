@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST004451	exposure	Interleukin-7 levels || id:ebi-a-GCST004451	0.00433536452085068	0.0120682964205515	FALSE	0.00998195563663179

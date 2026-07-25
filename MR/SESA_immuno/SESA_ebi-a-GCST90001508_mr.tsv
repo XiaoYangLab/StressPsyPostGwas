@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001508	CD25++ CD45RA+ CD4 not regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001508	exposure	Inverse variance weighted (fixed effects)	40	-0.0167818890367836	0.285778549183209	0.953172418256362
-EXeeTg	ebi-a-GCST90001508	CD25++ CD45RA+ CD4 not regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001508	exposure	Weighted median	40	-0.234701031272537	0.401623023627861	0.558963727019415
-EXeeTg	ebi-a-GCST90001508	CD25++ CD45RA+ CD4 not regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001508	exposure	Weighted mode	40	-0.712649648329057	0.821225408266602	0.390818847933865
-EXeeTg	ebi-a-GCST90001508	CD25++ CD45RA+ CD4 not regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001508	exposure	Simple mode	40	-0.897188811840899	0.9340977051811	0.342727450545448
-EXeeTg	ebi-a-GCST90001508	CD25++ CD45RA+ CD4 not regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001508	exposure	MR Egger	40	0.357781389894846	1.44404396242305	0.805651331930788
-EXeeTg	ebi-a-GCST90001508	CD25++ CD45RA+ CD4 not regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001508	exposure	MR RAPS	40	-0.071957011760696	0.299836414147312	0.810339894495047
-EXeeTg	ebi-a-GCST90001508	CD25++ CD45RA+ CD4 not regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001508	exposure	PRESSO	40	-0.0167818890367836	0.252993730086379	0.947451422078406

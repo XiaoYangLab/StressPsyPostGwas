@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002019	CD14 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002019	exposure	Inverse variance weighted (fixed effects)	39	-0.61922845891777	0.403392768022599	0.124771309016829
-EXeeTg	ebi-a-GCST90002019	CD14 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002019	exposure	Weighted median	39	-0.285015537853091	0.588130826156988	0.627951259756599
-EXeeTg	ebi-a-GCST90002019	CD14 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002019	exposure	Weighted mode	39	0.0855400025884343	1.03582182630025	0.934617573400646
-EXeeTg	ebi-a-GCST90002019	CD14 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002019	exposure	Simple mode	39	-0.443465036180367	1.15976305405784	0.704313163177989
-EXeeTg	ebi-a-GCST90002019	CD14 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002019	exposure	MR Egger	39	1.38685432518388	1.98604993964713	0.489356813551874
-EXeeTg	ebi-a-GCST90002019	CD14 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002019	exposure	MR RAPS	39	-0.601313504105658	0.423553866517558	0.155699109130909
-EXeeTg	ebi-a-GCST90002019	CD14 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90002019	exposure	PRESSO	39	-0.61922845891777	0.369424475910222	0.101909413706069

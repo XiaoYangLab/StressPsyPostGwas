@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST006353	Anti-rubella virus IgG levels || id:ebi-a-GCST006353	exposure	Inverse variance weighted (fixed effects)	38	0.341004787801077	0.180082083933267	0.0582771250210973
-EXeeTg	ebi-a-GCST006353	Anti-rubella virus IgG levels || id:ebi-a-GCST006353	exposure	Weighted median	38	0.21027018656154	0.240027676267596	0.381016575665438
-EXeeTg	ebi-a-GCST006353	Anti-rubella virus IgG levels || id:ebi-a-GCST006353	exposure	Weighted mode	38	0.00915220834887265	0.455102158743088	0.984063500417697
-EXeeTg	ebi-a-GCST006353	Anti-rubella virus IgG levels || id:ebi-a-GCST006353	exposure	Simple mode	38	0.15786897614641	0.496239607173025	0.75217462543806
-EXeeTg	ebi-a-GCST006353	Anti-rubella virus IgG levels || id:ebi-a-GCST006353	exposure	MR Egger	38	0.171123922017467	0.905218739787086	0.851122032487797
-EXeeTg	ebi-a-GCST006353	Anti-rubella virus IgG levels || id:ebi-a-GCST006353	exposure	MR RAPS	38	0.335691440098765	0.187939486255535	0.0740721090408924
-EXeeTg	ebi-a-GCST006353	Anti-rubella virus IgG levels || id:ebi-a-GCST006353	exposure	PRESSO	38	0.341004787801077	0.134467631321363	0.0155679186200304

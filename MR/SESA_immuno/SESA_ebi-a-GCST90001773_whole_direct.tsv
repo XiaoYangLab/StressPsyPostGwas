@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001773	exposure	CD24 on switched memory B cell || id:ebi-a-GCST90001773	0.00387550860850836	0.0118023366357714	FALSE	0.00497785692288236

@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90002039	exposure	CD80 on monocyte || id:ebi-a-GCST90002039	0.00463753824621742	0.0116545520646696	FALSE	0.0327729509285864

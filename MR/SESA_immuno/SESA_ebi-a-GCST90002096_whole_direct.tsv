@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90002096	exposure	CD11b on basophil || id:ebi-a-GCST90002096	0.00409180703632624	0.0158002779708041	FALSE	0.0142783505784099

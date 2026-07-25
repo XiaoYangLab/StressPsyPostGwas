@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001807	CD27 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001807	exposure	Inverse variance weighted (fixed effects)	39	0.134790908327263	0.269159879273971	0.616523284954834
-EXeeTg	ebi-a-GCST90001807	CD27 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001807	exposure	Weighted median	39	0.251356491783946	0.382647057149621	0.51125254534379
-EXeeTg	ebi-a-GCST90001807	CD27 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001807	exposure	Weighted mode	39	0.663959827008144	0.656086831742947	0.317938782968223
-EXeeTg	ebi-a-GCST90001807	CD27 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001807	exposure	Simple mode	39	0.818911526233679	0.719337584658776	0.262069841928655
-EXeeTg	ebi-a-GCST90001807	CD27 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001807	exposure	MR Egger	39	1.63711279761088	1.33680019096655	0.228447060760561
-EXeeTg	ebi-a-GCST90001807	CD27 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001807	exposure	MR RAPS	39	0.160408367218217	0.281185805381766	0.568358238527673
-EXeeTg	ebi-a-GCST90001807	CD27 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001807	exposure	PRESSO	39	0.134790908327263	0.220519405730562	0.54467827629217

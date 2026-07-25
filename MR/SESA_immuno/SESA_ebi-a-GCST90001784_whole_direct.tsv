@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001784	exposure	CD25 on IgD+ CD38dim B cell || id:ebi-a-GCST90001784	0.00415186737290585	0.00750086338079354	FALSE	0.179911243079964

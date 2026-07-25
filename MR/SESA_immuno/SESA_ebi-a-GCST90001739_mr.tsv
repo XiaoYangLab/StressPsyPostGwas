@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001739	CD19 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001739	exposure	Inverse variance weighted (fixed effects)	40	-0.356205899939598	0.270109967026027	0.187254709577566
-EXeeTg	ebi-a-GCST90001739	CD19 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001739	exposure	Weighted median	40	-0.319440749747102	0.39386094582845	0.417337206120257
-EXeeTg	ebi-a-GCST90001739	CD19 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001739	exposure	Weighted mode	40	-0.291574930151963	0.729456711325748	0.691547103511554
-EXeeTg	ebi-a-GCST90001739	CD19 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001739	exposure	Simple mode	40	-0.653507191760642	0.812177222322448	0.425907765168839
-EXeeTg	ebi-a-GCST90001739	CD19 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001739	exposure	MR Egger	40	-0.259110730745942	1.35128619559287	0.848958089998673
-EXeeTg	ebi-a-GCST90001739	CD19 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001739	exposure	MR RAPS	40	-0.379518049117884	0.282652089673047	0.179367887452101
-EXeeTg	ebi-a-GCST90001739	CD19 on Plasma Blast-Plasma Cell || id:ebi-a-GCST90001739	exposure	PRESSO	40	-0.356205899939598	0.232992183397196	0.134377206498803

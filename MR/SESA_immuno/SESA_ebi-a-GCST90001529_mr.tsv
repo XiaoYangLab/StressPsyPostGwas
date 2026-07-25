@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001529	CD66b++ myeloid cell Absolute Count || id:ebi-a-GCST90001529	exposure	Inverse variance weighted (fixed effects)	36	-0.275481167599087	0.381749999368682	0.47052373655992
-EXeeTg	ebi-a-GCST90001529	CD66b++ myeloid cell Absolute Count || id:ebi-a-GCST90001529	exposure	Weighted median	36	0.205053429515068	0.538670526160527	0.70345127298004
-EXeeTg	ebi-a-GCST90001529	CD66b++ myeloid cell Absolute Count || id:ebi-a-GCST90001529	exposure	Weighted mode	36	0.628560306817302	0.991493940258817	0.530233372860609
-EXeeTg	ebi-a-GCST90001529	CD66b++ myeloid cell Absolute Count || id:ebi-a-GCST90001529	exposure	Simple mode	36	-1.07578252842626	1.11809200706438	0.342570294217842
-EXeeTg	ebi-a-GCST90001529	CD66b++ myeloid cell Absolute Count || id:ebi-a-GCST90001529	exposure	MR Egger	36	3.00666068166194	1.85786324020749	0.114829523415292
-EXeeTg	ebi-a-GCST90001529	CD66b++ myeloid cell Absolute Count || id:ebi-a-GCST90001529	exposure	MR RAPS	36	-0.284269590898648	0.400345506156144	0.477666525789948
-EXeeTg	ebi-a-GCST90001529	CD66b++ myeloid cell Absolute Count || id:ebi-a-GCST90001529	exposure	PRESSO	36	-0.275481167599087	0.346253901293284	0.43162491193901

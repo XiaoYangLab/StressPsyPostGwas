@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001516	Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516	exposure	Inverse variance weighted (fixed effects)	39	0.506814692007899	0.368264772672493	0.168752400230365
-EXeeTg	ebi-a-GCST90001516	Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516	exposure	Weighted median	39	0.353946948347683	0.494393290791062	0.474039619575322
-EXeeTg	ebi-a-GCST90001516	Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516	exposure	Weighted mode	39	0.125250405457669	0.931484558826656	0.893745976780876
-EXeeTg	ebi-a-GCST90001516	Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516	exposure	Simple mode	39	0.966209071022424	1.04629945485399	0.361597688529006
-EXeeTg	ebi-a-GCST90001516	Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516	exposure	MR Egger	39	1.61564015037624	1.82455933093384	0.381608002498984
-EXeeTg	ebi-a-GCST90001516	Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516	exposure	MR RAPS	39	0.516931279748604	0.383649414606073	0.177849713462696
-EXeeTg	ebi-a-GCST90001516	Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516	exposure	PRESSO	39	0.506814692007899	0.273493745779954	0.0716434335790352

@@ -1,2 +1,0 @@
-id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
-EXeeTg	ebi-a-GCST90001790	exposure	CD25 on memory B cell || id:ebi-a-GCST90001790	0.00426014978724056	0.00439112278480024	FALSE	0.952046531693013

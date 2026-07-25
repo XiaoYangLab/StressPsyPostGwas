@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST004436	Macrophage colony stimulating factor levels || id:ebi-a-GCST004436	exposure	Inverse variance weighted (fixed effects)	36	0.16713945783389	0.326875026457343	0.609123320251372
-EXeeTg	ebi-a-GCST004436	Macrophage colony stimulating factor levels || id:ebi-a-GCST004436	exposure	Weighted median	36	0.158916348852227	0.456222524466693	0.727591778727284
-EXeeTg	ebi-a-GCST004436	Macrophage colony stimulating factor levels || id:ebi-a-GCST004436	exposure	Weighted mode	36	-0.0147777218378948	0.880565269744538	0.986705765134678
-EXeeTg	ebi-a-GCST004436	Macrophage colony stimulating factor levels || id:ebi-a-GCST004436	exposure	Simple mode	36	0.0842048089459828	0.903709573200483	0.926294405954709
-EXeeTg	ebi-a-GCST004436	Macrophage colony stimulating factor levels || id:ebi-a-GCST004436	exposure	MR Egger	36	1.78666528674728	1.75194744710764	0.315017500280626
-EXeeTg	ebi-a-GCST004436	Macrophage colony stimulating factor levels || id:ebi-a-GCST004436	exposure	MR RAPS	36	0.184727859152412	0.340478799125288	0.587437474714564
-EXeeTg	ebi-a-GCST004436	Macrophage colony stimulating factor levels || id:ebi-a-GCST004436	exposure	PRESSO	36	0.16713945783389	0.245436432897445	0.500359537566299

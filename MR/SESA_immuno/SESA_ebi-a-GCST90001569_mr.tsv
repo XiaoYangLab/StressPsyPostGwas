@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001569	Effector Memory CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001569	exposure	Inverse variance weighted (fixed effects)	40	-0.0960000312385105	0.270169554100042	0.72234048791103
-EXeeTg	ebi-a-GCST90001569	Effector Memory CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001569	exposure	Weighted median	40	-0.104962380754871	0.376007430398129	0.78012990381984
-EXeeTg	ebi-a-GCST90001569	Effector Memory CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001569	exposure	Weighted mode	40	0.0876586892284887	0.768157900821218	0.909731734477035
-EXeeTg	ebi-a-GCST90001569	Effector Memory CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001569	exposure	Simple mode	40	0.11363098834765	0.791828285921007	0.88663062316427
-EXeeTg	ebi-a-GCST90001569	Effector Memory CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001569	exposure	MR Egger	40	0.457650710287531	1.3663131098635	0.739502531814435
-EXeeTg	ebi-a-GCST90001569	Effector Memory CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001569	exposure	MR RAPS	40	-0.149067309701938	0.282653635189867	0.597926203103682
-EXeeTg	ebi-a-GCST90001569	Effector Memory CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001569	exposure	PRESSO	40	-0.0960000312385105	0.23174416634461	0.680960599987356

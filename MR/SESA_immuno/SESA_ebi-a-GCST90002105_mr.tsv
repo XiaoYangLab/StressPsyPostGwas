@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002105	HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105	exposure	Inverse variance weighted (fixed effects)	36	0.0615502725791277	0.323970284385599	0.849319002670495
-EXeeTg	ebi-a-GCST90002105	HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105	exposure	Weighted median	36	0.0173415562075644	0.451617430137638	0.969369737456927
-EXeeTg	ebi-a-GCST90002105	HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105	exposure	Weighted mode	36	0.571312101830436	0.893384851263943	0.52666699178545
-EXeeTg	ebi-a-GCST90002105	HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105	exposure	Simple mode	36	-0.812883840992555	0.978435482166165	0.411718619899546
-EXeeTg	ebi-a-GCST90002105	HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105	exposure	MR Egger	36	-0.588301116592482	1.80294107543238	0.746196861024373
-EXeeTg	ebi-a-GCST90002105	HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105	exposure	MR RAPS	36	0.0242513687046783	0.338604681726267	0.942903144782757
-EXeeTg	ebi-a-GCST90002105	HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105	exposure	PRESSO	36	0.0615502725791277	0.262667473561483	0.816095950460196

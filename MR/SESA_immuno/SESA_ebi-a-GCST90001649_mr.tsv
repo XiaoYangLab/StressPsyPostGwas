@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90001649	HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649	exposure	Inverse variance weighted (fixed effects)	38	0.267645278001873	0.290188131260692	0.356363552242624
-EXeeTg	ebi-a-GCST90001649	HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649	exposure	Weighted median	38	0.338867365378583	0.427500227346205	0.427969077082473
-EXeeTg	ebi-a-GCST90001649	HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649	exposure	Weighted mode	38	-0.619709623570336	0.890511539792414	0.49083801474695
-EXeeTg	ebi-a-GCST90001649	HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649	exposure	Simple mode	38	0.208687470202482	0.871781038118447	0.812131592491237
-EXeeTg	ebi-a-GCST90001649	HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649	exposure	MR Egger	38	-1.05842410276891	1.45276536032483	0.470985033616858
-EXeeTg	ebi-a-GCST90001649	HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649	exposure	MR RAPS	38	0.229032945962451	0.304552120564568	0.452031804033054
-EXeeTg	ebi-a-GCST90001649	HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649	exposure	PRESSO	38	0.267645278001873	0.255954484101494	0.302494568533971

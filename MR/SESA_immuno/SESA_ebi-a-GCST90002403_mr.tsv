@@ -1,8 +1,0 @@
-id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
-EXeeTg	ebi-a-GCST90002403	Red blood cell count || id:ebi-a-GCST90002403	exposure	Inverse variance weighted (fixed effects)	22	0.0280796660281295	0.032138960176815	0.382284082799573
-EXeeTg	ebi-a-GCST90002403	Red blood cell count || id:ebi-a-GCST90002403	exposure	Weighted median	22	0.0214823284507325	0.0475686313769051	0.65155210295079
-EXeeTg	ebi-a-GCST90002403	Red blood cell count || id:ebi-a-GCST90002403	exposure	Weighted mode	22	-0.0152845412994212	0.0914157051084194	0.868813668627267
-EXeeTg	ebi-a-GCST90002403	Red blood cell count || id:ebi-a-GCST90002403	exposure	Simple mode	22	-0.0189265917879032	0.0846874427156687	0.825315778549234
-EXeeTg	ebi-a-GCST90002403	Red blood cell count || id:ebi-a-GCST90002403	exposure	MR Egger	22	0.0749137001307855	0.208442994682931	0.723065141267552
-EXeeTg	ebi-a-GCST90002403	Red blood cell count || id:ebi-a-GCST90002403	exposure	MR RAPS	22	0.016603992471309	0.0338488136410867	0.62375610759118
-EXeeTg	ebi-a-GCST90002403	Red blood cell count || id:ebi-a-GCST90002403	exposure	PRESSO	22	0.0280796660281295	0.0312573428436695	0.379190210864798
