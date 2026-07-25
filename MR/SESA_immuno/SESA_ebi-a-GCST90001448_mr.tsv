@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001448	CD11c+ monocyte Absolute Count || id:ebi-a-GCST90001448	exposure	Inverse variance weighted (fixed effects)	40	-0.0766491867392518	0.29388634994386	0.794237227472052
+EXeeTg	ebi-a-GCST90001448	CD11c+ monocyte Absolute Count || id:ebi-a-GCST90001448	exposure	Weighted median	40	-0.179065431830478	0.416612467322562	0.667331714986818
+EXeeTg	ebi-a-GCST90001448	CD11c+ monocyte Absolute Count || id:ebi-a-GCST90001448	exposure	Weighted mode	40	-0.203087507201044	0.996659851988396	0.839594260803041
+EXeeTg	ebi-a-GCST90001448	CD11c+ monocyte Absolute Count || id:ebi-a-GCST90001448	exposure	Simple mode	40	-0.138931788152066	0.872861366296666	0.874357778265545
+EXeeTg	ebi-a-GCST90001448	CD11c+ monocyte Absolute Count || id:ebi-a-GCST90001448	exposure	MR Egger	40	0.0272895279905385	1.48315471597882	0.985416303812348
+EXeeTg	ebi-a-GCST90001448	CD11c+ monocyte Absolute Count || id:ebi-a-GCST90001448	exposure	MR RAPS	40	-0.109771681404678	0.306805896583036	0.720501451270431
+EXeeTg	ebi-a-GCST90001448	CD11c+ monocyte Absolute Count || id:ebi-a-GCST90001448	exposure	PRESSO	40	-0.0766491867392518	0.230942885957388	0.741744383698211

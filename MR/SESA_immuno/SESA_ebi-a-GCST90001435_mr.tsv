@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001435	Plasma Blast-Plasma Cell %lymphocyte || id:ebi-a-GCST90001435	exposure	Inverse variance weighted (fixed effects)	40	-0.36987579926447	0.272380859420824	0.174483964336838
+EXeeTg	ebi-a-GCST90001435	Plasma Blast-Plasma Cell %lymphocyte || id:ebi-a-GCST90001435	exposure	Weighted median	40	-0.578666042049672	0.377293204838649	0.125096002093289
+EXeeTg	ebi-a-GCST90001435	Plasma Blast-Plasma Cell %lymphocyte || id:ebi-a-GCST90001435	exposure	Weighted mode	40	-0.675531381672773	0.636851405952882	0.295334842022391
+EXeeTg	ebi-a-GCST90001435	Plasma Blast-Plasma Cell %lymphocyte || id:ebi-a-GCST90001435	exposure	Simple mode	40	0.167059017801421	0.786376930612137	0.832869164216741
+EXeeTg	ebi-a-GCST90001435	Plasma Blast-Plasma Cell %lymphocyte || id:ebi-a-GCST90001435	exposure	MR Egger	40	-0.13555636484916	1.36916511488239	0.921653493131309
+EXeeTg	ebi-a-GCST90001435	Plasma Blast-Plasma Cell %lymphocyte || id:ebi-a-GCST90001435	exposure	MR RAPS	40	-0.405203984044045	0.284773544103356	0.154765443397114
+EXeeTg	ebi-a-GCST90001435	Plasma Blast-Plasma Cell %lymphocyte || id:ebi-a-GCST90001435	exposure	PRESSO	40	-0.36987579926447	0.224010025452744	0.106737527351021

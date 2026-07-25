@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001476	HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476	exposure	Inverse variance weighted (fixed effects)	36	-0.451411885988268	0.299759076016948	0.132088826636069
+EXeeTg	ebi-a-GCST90001476	HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476	exposure	Weighted median	36	-0.613188212606336	0.413939690581328	0.138514198488345
+EXeeTg	ebi-a-GCST90001476	HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476	exposure	Weighted mode	36	-0.750373780177156	0.82739746207128	0.370657041248189
+EXeeTg	ebi-a-GCST90001476	HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476	exposure	Simple mode	36	-0.686075587014262	0.908901517443086	0.455394264505417
+EXeeTg	ebi-a-GCST90001476	HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476	exposure	MR Egger	36	-1.6551673988703	1.44854931420011	0.261171649608698
+EXeeTg	ebi-a-GCST90001476	HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476	exposure	MR RAPS	36	-0.444276467149522	0.313028753625133	0.155816453104231
+EXeeTg	ebi-a-GCST90001476	HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476	exposure	PRESSO	36	-0.451411885988268	0.231021595197684	0.0587313789154631

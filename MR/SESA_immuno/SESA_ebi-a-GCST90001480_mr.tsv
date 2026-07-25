@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001480	Resting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001480	exposure	Inverse variance weighted (fixed effects)	39	-0.0710641874226287	0.267021709442176	0.790134188504693
+EXeeTg	ebi-a-GCST90001480	Resting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001480	exposure	Weighted median	39	0.0335263177474603	0.365768065672825	0.926968142331226
+EXeeTg	ebi-a-GCST90001480	Resting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001480	exposure	Weighted mode	39	0.133208003018416	0.720469649789393	0.85429818573161
+EXeeTg	ebi-a-GCST90001480	Resting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001480	exposure	Simple mode	39	0.0848362880502851	0.759403701017214	0.91163792414181
+EXeeTg	ebi-a-GCST90001480	Resting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001480	exposure	MR Egger	39	-0.655345843352199	1.36134698651802	0.633070643754671
+EXeeTg	ebi-a-GCST90001480	Resting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001480	exposure	MR RAPS	39	-0.0623688645534619	0.277519978263117	0.822184279271862
+EXeeTg	ebi-a-GCST90001480	Resting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001480	exposure	PRESSO	39	-0.0710641874226287	0.177316477619151	0.690829643894565

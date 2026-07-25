@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001434	Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434	exposure	Inverse variance weighted (fixed effects)	37	-0.3469876831951	0.287057306089957	0.226749314722316
+EXeeTg	ebi-a-GCST90001434	Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434	exposure	Weighted median	37	-0.11412687819684	0.399143312461667	0.774932060416381
+EXeeTg	ebi-a-GCST90001434	Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434	exposure	Weighted mode	37	0.106741351578069	0.795610546690433	0.894021081742857
+EXeeTg	ebi-a-GCST90001434	Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434	exposure	Simple mode	37	0.0876327876417138	0.864898299687681	0.91985748286228
+EXeeTg	ebi-a-GCST90001434	Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434	exposure	MR Egger	37	-0.301604436420014	1.4369079991117	0.834964193267161
+EXeeTg	ebi-a-GCST90001434	Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434	exposure	MR RAPS	37	-0.329352607434569	0.299758424351354	0.271887259250342
+EXeeTg	ebi-a-GCST90001434	Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434	exposure	PRESSO	37	-0.3469876831951	0.235370352123768	0.14911417829489

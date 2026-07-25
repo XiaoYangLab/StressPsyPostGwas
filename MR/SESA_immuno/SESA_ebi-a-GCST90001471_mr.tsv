@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001471	CD62L- plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001471	exposure	Inverse variance weighted (fixed effects)	36	-0.0816993605902138	0.291791052059697	0.779483115831454
+EXeeTg	ebi-a-GCST90001471	CD62L- plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001471	exposure	Weighted median	36	-0.183975979627148	0.409470509218701	0.653213707960645
+EXeeTg	ebi-a-GCST90001471	CD62L- plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001471	exposure	Weighted mode	36	-0.465591177388122	0.782264866651317	0.55554978705888
+EXeeTg	ebi-a-GCST90001471	CD62L- plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001471	exposure	Simple mode	36	-0.548473754565224	0.855184138295057	0.525472203856723
+EXeeTg	ebi-a-GCST90001471	CD62L- plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001471	exposure	MR Egger	36	0.604513169050235	1.4189765250814	0.672777852679505
+EXeeTg	ebi-a-GCST90001471	CD62L- plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001471	exposure	MR RAPS	36	-0.105796233324357	0.306020176576303	0.729555760851926
+EXeeTg	ebi-a-GCST90001471	CD62L- plasmacytoid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001471	exposure	PRESSO	36	-0.0816993605902138	0.262382167636558	0.757362392282879

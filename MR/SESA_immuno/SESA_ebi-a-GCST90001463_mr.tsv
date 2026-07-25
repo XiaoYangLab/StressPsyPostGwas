@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001463	CD62L- Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001463	exposure	Inverse variance weighted (fixed effects)	38	-0.28462001041293	0.298182161062358	0.339821891936566
+EXeeTg	ebi-a-GCST90001463	CD62L- Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001463	exposure	Weighted median	38	-0.213296480277142	0.417109787863404	0.609093595355212
+EXeeTg	ebi-a-GCST90001463	CD62L- Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001463	exposure	Weighted mode	38	-0.148195817390407	0.75908431328688	0.846281270312696
+EXeeTg	ebi-a-GCST90001463	CD62L- Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001463	exposure	Simple mode	38	-0.148195817390407	0.891611474117537	0.86889569898373
+EXeeTg	ebi-a-GCST90001463	CD62L- Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001463	exposure	MR Egger	38	-1.68977848654072	1.50283688863798	0.268288109088849
+EXeeTg	ebi-a-GCST90001463	CD62L- Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001463	exposure	MR RAPS	38	-0.298475345139204	0.311634728341174	0.338177210212598
+EXeeTg	ebi-a-GCST90001463	CD62L- Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001463	exposure	PRESSO	38	-0.28462001041293	0.244273878451777	0.251408223125299
