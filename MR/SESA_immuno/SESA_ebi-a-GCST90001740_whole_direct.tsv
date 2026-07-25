@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001740	exposure	CD19 on switched memory B cell || id:ebi-a-GCST90001740	0.00445876002717773	0.0109453100725546	FALSE	0.0218511087374558

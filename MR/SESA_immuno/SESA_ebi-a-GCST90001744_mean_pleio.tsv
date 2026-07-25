@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001744	CD20 on CD20- CD38- B cell || id:ebi-a-GCST90001744	exposure	0.0337947958511244	0.0226469253051188	0.144594294819399

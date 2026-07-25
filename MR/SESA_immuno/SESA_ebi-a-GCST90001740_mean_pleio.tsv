@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001740	CD19 on switched memory B cell || id:ebi-a-GCST90001740	exposure	-0.00961885159886275	0.0232585250292725	0.681647981950642

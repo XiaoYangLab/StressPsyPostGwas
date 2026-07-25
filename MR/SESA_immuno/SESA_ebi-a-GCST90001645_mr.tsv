@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001645	Natural Killer Absolute Count || id:ebi-a-GCST90001645	exposure	Inverse variance weighted (fixed effects)	37	-0.0888405735285877	0.277620034457931	0.748962425696603
+EXeeTg	ebi-a-GCST90001645	Natural Killer Absolute Count || id:ebi-a-GCST90001645	exposure	Weighted median	37	-0.0927253139600173	0.383999177420094	0.809188781273424
+EXeeTg	ebi-a-GCST90001645	Natural Killer Absolute Count || id:ebi-a-GCST90001645	exposure	Weighted mode	37	-0.152584465318816	0.663630765415382	0.819452501378178
+EXeeTg	ebi-a-GCST90001645	Natural Killer Absolute Count || id:ebi-a-GCST90001645	exposure	Simple mode	37	-0.124590905373947	0.768475938258215	0.87211220835651
+EXeeTg	ebi-a-GCST90001645	Natural Killer Absolute Count || id:ebi-a-GCST90001645	exposure	MR Egger	37	0.30171090432298	1.43765053041918	0.834990798980481
+EXeeTg	ebi-a-GCST90001645	Natural Killer Absolute Count || id:ebi-a-GCST90001645	exposure	MR RAPS	37	-0.109989523987902	0.289280678216743	0.703784104034145
+EXeeTg	ebi-a-GCST90001645	Natural Killer Absolute Count || id:ebi-a-GCST90001645	exposure	PRESSO	37	-0.0888405735285877	0.213080913962586	0.679202832906286

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001647	Natural Killer %lymphocyte || id:ebi-a-GCST90001647	exposure	Inverse variance weighted (fixed effects)	39	-0.0231642645683339	0.262512656237782	0.929685478464657
+EXeeTg	ebi-a-GCST90001647	Natural Killer %lymphocyte || id:ebi-a-GCST90001647	exposure	Weighted median	39	0.0405544938688904	0.392654540933473	0.917738458613422
+EXeeTg	ebi-a-GCST90001647	Natural Killer %lymphocyte || id:ebi-a-GCST90001647	exposure	Weighted mode	39	-0.153761745266417	0.707847786444489	0.829195676915294
+EXeeTg	ebi-a-GCST90001647	Natural Killer %lymphocyte || id:ebi-a-GCST90001647	exposure	Simple mode	39	-0.343929566765131	0.755610836878444	0.651578721982956
+EXeeTg	ebi-a-GCST90001647	Natural Killer %lymphocyte || id:ebi-a-GCST90001647	exposure	MR Egger	39	1.34509812254774	1.33198322524496	0.31912772799693
+EXeeTg	ebi-a-GCST90001647	Natural Killer %lymphocyte || id:ebi-a-GCST90001647	exposure	MR RAPS	39	-0.022539058448857	0.275569825777636	0.934813124207446
+EXeeTg	ebi-a-GCST90001647	Natural Killer %lymphocyte || id:ebi-a-GCST90001647	exposure	PRESSO	39	-0.0231642645683339	0.253217461735463	0.927591962434176

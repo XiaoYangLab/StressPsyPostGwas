@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001650	HLA DR+ Natural Killer  %CD3- lymphocyte || id:ebi-a-GCST90001650	exposure	Inverse variance weighted (fixed effects)	38	0.258062907074072	0.284508649717413	0.364381590532628
+EXeeTg	ebi-a-GCST90001650	HLA DR+ Natural Killer  %CD3- lymphocyte || id:ebi-a-GCST90001650	exposure	Weighted median	38	0.266804619099549	0.411167584566699	0.516406200692442
+EXeeTg	ebi-a-GCST90001650	HLA DR+ Natural Killer  %CD3- lymphocyte || id:ebi-a-GCST90001650	exposure	Weighted mode	38	0.937805930571226	0.853938568743465	0.279207144567252
+EXeeTg	ebi-a-GCST90001650	HLA DR+ Natural Killer  %CD3- lymphocyte || id:ebi-a-GCST90001650	exposure	Simple mode	38	0.858175811338493	0.934701875534458	0.364498513058786
+EXeeTg	ebi-a-GCST90001650	HLA DR+ Natural Killer  %CD3- lymphocyte || id:ebi-a-GCST90001650	exposure	MR Egger	38	-0.20981176601566	1.42436672438508	0.883715706860415
+EXeeTg	ebi-a-GCST90001650	HLA DR+ Natural Killer  %CD3- lymphocyte || id:ebi-a-GCST90001650	exposure	MR RAPS	38	0.228068088377553	0.29874261503651	0.445208962328465
+EXeeTg	ebi-a-GCST90001650	HLA DR+ Natural Killer  %CD3- lymphocyte || id:ebi-a-GCST90001650	exposure	PRESSO	38	0.258062907074072	0.254694104020829	0.317532137106977

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001641	CD3- lymphocyte %leukocyte || id:ebi-a-GCST90001641	exposure	Inverse variance weighted (fixed effects)	35	0.276869793300585	0.305333786431763	0.364524495173078
+EXeeTg	ebi-a-GCST90001641	CD3- lymphocyte %leukocyte || id:ebi-a-GCST90001641	exposure	Weighted median	35	0.46539592186204	0.427298598094721	0.276083973713479
+EXeeTg	ebi-a-GCST90001641	CD3- lymphocyte %leukocyte || id:ebi-a-GCST90001641	exposure	Weighted mode	35	0.738789586402527	0.847227890162353	0.389320396964136
+EXeeTg	ebi-a-GCST90001641	CD3- lymphocyte %leukocyte || id:ebi-a-GCST90001641	exposure	Simple mode	35	0.78145856807056	0.934984233681015	0.409103611463444
+EXeeTg	ebi-a-GCST90001641	CD3- lymphocyte %leukocyte || id:ebi-a-GCST90001641	exposure	MR Egger	35	1.01741899633231	1.79756430673109	0.575223704105748
+EXeeTg	ebi-a-GCST90001641	CD3- lymphocyte %leukocyte || id:ebi-a-GCST90001641	exposure	MR RAPS	35	0.280927564724374	0.319649429961124	0.379476397401385
+EXeeTg	ebi-a-GCST90001641	CD3- lymphocyte %leukocyte || id:ebi-a-GCST90001641	exposure	PRESSO	35	0.276869793300585	0.262024269296013	0.298118549106751

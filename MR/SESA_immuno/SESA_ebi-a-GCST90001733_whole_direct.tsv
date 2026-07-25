@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001733	exposure	CD19 on IgD- CD38- B cell || id:ebi-a-GCST90001733	0.00435538168094926	0.00976837721656527	FALSE	0.0467591144168666
