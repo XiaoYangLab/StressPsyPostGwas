@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001795	CD25 on transitional B cell || id:ebi-a-GCST90001795	exposure	Inverse variance weighted (fixed effects)	38	0.626025893182655	0.277899801896767	0.0242778417690781
+EXeeTg	ebi-a-GCST90001795	CD25 on transitional B cell || id:ebi-a-GCST90001795	exposure	Weighted median	38	0.648975031862593	0.406370808325313	0.110265240440713
+EXeeTg	ebi-a-GCST90001795	CD25 on transitional B cell || id:ebi-a-GCST90001795	exposure	Weighted mode	38	0.615453642670136	0.752646394399852	0.418752263268277
+EXeeTg	ebi-a-GCST90001795	CD25 on transitional B cell || id:ebi-a-GCST90001795	exposure	Simple mode	38	0.524029269425825	0.783399153032535	0.507700639113505
+EXeeTg	ebi-a-GCST90001795	CD25 on transitional B cell || id:ebi-a-GCST90001795	exposure	MR Egger	38	2.67960650275429	1.36835963421379	0.0579831577070606
+EXeeTg	ebi-a-GCST90001795	CD25 on transitional B cell || id:ebi-a-GCST90001795	exposure	MR RAPS	38	0.599614013589376	0.290628826352566	0.0390973493199743
+EXeeTg	ebi-a-GCST90001795	CD25 on transitional B cell || id:ebi-a-GCST90001795	exposure	PRESSO	38	0.626025893182655	0.218209989723938	0.00676748361152381

@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001785	CD25 on IgD- CD24- B cell || id:ebi-a-GCST90001785	exposure	-0.0121297743581363	0.0231626806010381	0.603712019226569

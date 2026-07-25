@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001828	IgD on transitional B cell || id:ebi-a-GCST90001828	exposure	Inverse variance weighted (fixed effects)	36	0.0961379678588999	0.286769886417605	0.737440812174118
+EXeeTg	ebi-a-GCST90001828	IgD on transitional B cell || id:ebi-a-GCST90001828	exposure	Weighted median	36	-0.136572493939298	0.413473500580862	0.74116927898708
+EXeeTg	ebi-a-GCST90001828	IgD on transitional B cell || id:ebi-a-GCST90001828	exposure	Weighted mode	36	-0.489158617194592	0.716233607864119	0.499128446778513
+EXeeTg	ebi-a-GCST90001828	IgD on transitional B cell || id:ebi-a-GCST90001828	exposure	Simple mode	36	-0.194172530727488	0.836893237658032	0.817876940891617
+EXeeTg	ebi-a-GCST90001828	IgD on transitional B cell || id:ebi-a-GCST90001828	exposure	MR Egger	36	0.48429177425622	1.40643887797788	0.732712114315598
+EXeeTg	ebi-a-GCST90001828	IgD on transitional B cell || id:ebi-a-GCST90001828	exposure	MR RAPS	36	0.0699256864110842	0.300414700475447	0.815944774783871
+EXeeTg	ebi-a-GCST90001828	IgD on transitional B cell || id:ebi-a-GCST90001828	exposure	PRESSO	36	0.0961379678588999	0.255296401889134	0.70876363936407

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001801	CD27 on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001801	exposure	Inverse variance weighted (fixed effects)	38	0.00631829892392397	0.386884398016166	0.986970141198572
+EXeeTg	ebi-a-GCST90001801	CD27 on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001801	exposure	Weighted median	38	0.309921681001336	0.529052344084745	0.558006344092485
+EXeeTg	ebi-a-GCST90001801	CD27 on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001801	exposure	Weighted mode	38	0.600940609171534	0.954360767842662	0.532774168238142
+EXeeTg	ebi-a-GCST90001801	CD27 on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001801	exposure	Simple mode	38	0.664002083466861	1.00687919773529	0.513680894992384
+EXeeTg	ebi-a-GCST90001801	CD27 on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001801	exposure	MR Egger	38	1.44114602967747	1.90619692327846	0.454548946456725
+EXeeTg	ebi-a-GCST90001801	CD27 on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001801	exposure	MR RAPS	38	-0.0300176752838862	0.40434513748044	0.940821204512174
+EXeeTg	ebi-a-GCST90001801	CD27 on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001801	exposure	PRESSO	38	0.00631829892392397	0.316550098597055	0.984182636451148

@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001823	IgD on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001823	exposure	0.0241023552260834	0.0336680001483851	0.478951639374266

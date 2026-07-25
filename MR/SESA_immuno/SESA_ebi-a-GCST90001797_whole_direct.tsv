@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001797	exposure	CD27 on CD20- CD38- B cell || id:ebi-a-GCST90001797	0.00454442405239075	0.00998781037053408	FALSE	0.0508772233053744
