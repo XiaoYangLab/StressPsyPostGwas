@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001526	CD33dim HLA DR+ CD11b+ %CD33dim HLA DR+ || id:ebi-a-GCST90001526	exposure	0.0341132855479984	0.034925007393397	0.335587863364253

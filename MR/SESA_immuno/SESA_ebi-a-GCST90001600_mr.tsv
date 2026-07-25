@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001600	Leukocyte Absolute Count || id:ebi-a-GCST90001600	exposure	Inverse variance weighted (fixed effects)	12	-0.912657198263708	0.545433962021323	0.0942745477733092
+EXeeTg	ebi-a-GCST90001600	Leukocyte Absolute Count || id:ebi-a-GCST90001600	exposure	Weighted median	12	-1.3778932517495	0.708329252197503	0.0517422178405627
+EXeeTg	ebi-a-GCST90001600	Leukocyte Absolute Count || id:ebi-a-GCST90001600	exposure	Weighted mode	12	-1.29398519836606	1.07622510551216	0.254476167443019
+EXeeTg	ebi-a-GCST90001600	Leukocyte Absolute Count || id:ebi-a-GCST90001600	exposure	Simple mode	12	-1.25794625390547	1.18307241688345	0.310436882934142
+EXeeTg	ebi-a-GCST90001600	Leukocyte Absolute Count || id:ebi-a-GCST90001600	exposure	MR Egger	12	-4.76268479913397	9.00089444288112	0.608256568615807
+EXeeTg	ebi-a-GCST90001600	Leukocyte Absolute Count || id:ebi-a-GCST90001600	exposure	MR RAPS	12	-1.01794159338511	0.572799390092011	0.0755461028020931
+EXeeTg	ebi-a-GCST90001600	Leukocyte Absolute Count || id:ebi-a-GCST90001600	exposure	PRESSO	12	-0.912657198263708	0.459641557991866	0.0725729674918396

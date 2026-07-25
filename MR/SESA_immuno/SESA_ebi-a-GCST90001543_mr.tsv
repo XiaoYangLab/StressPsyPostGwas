@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001543	Effector Memory CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001543	exposure	Inverse variance weighted (fixed effects)	40	0.252427962736	0.26993640157077	0.349716849295703
+EXeeTg	ebi-a-GCST90001543	Effector Memory CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001543	exposure	Weighted median	40	0.233595841258657	0.378199297489439	0.536804255720669
+EXeeTg	ebi-a-GCST90001543	Effector Memory CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001543	exposure	Weighted mode	40	-0.404335755935541	0.839636961191616	0.632809624311378
+EXeeTg	ebi-a-GCST90001543	Effector Memory CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001543	exposure	Simple mode	40	-0.318363777585883	0.812704764407968	0.697387430873671
+EXeeTg	ebi-a-GCST90001543	Effector Memory CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001543	exposure	MR Egger	40	1.05327338768817	1.3674781207217	0.44592543823501
+EXeeTg	ebi-a-GCST90001543	Effector Memory CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001543	exposure	MR RAPS	40	0.239788833255657	0.28202974010622	0.39519981289397
+EXeeTg	ebi-a-GCST90001543	Effector Memory CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001543	exposure	PRESSO	40	0.252427962736	0.21596357440172	0.249561013633645

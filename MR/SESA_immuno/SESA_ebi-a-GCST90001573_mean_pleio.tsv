@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001573	Terminally Differentiated CD4-CD8- T cell %CD4-CD8- T cell || id:ebi-a-GCST90001573	exposure	-0.000372356579853121	0.0270412799447124	0.98908751425501

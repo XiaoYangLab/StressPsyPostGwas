@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001583	Monocyte Absolute Count || id:ebi-a-GCST90001583	exposure	Inverse variance weighted (fixed effects)	37	-0.243947088683744	0.287126909144114	0.395539634942143
+EXeeTg	ebi-a-GCST90001583	Monocyte Absolute Count || id:ebi-a-GCST90001583	exposure	Weighted median	37	0.0645007132514941	0.40842386836545	0.874515176838744
+EXeeTg	ebi-a-GCST90001583	Monocyte Absolute Count || id:ebi-a-GCST90001583	exposure	Weighted mode	37	0.0890618989291827	0.800343770738016	0.912012788648924
+EXeeTg	ebi-a-GCST90001583	Monocyte Absolute Count || id:ebi-a-GCST90001583	exposure	Simple mode	37	0.443422939260731	0.835906229080179	0.599043559760383
+EXeeTg	ebi-a-GCST90001583	Monocyte Absolute Count || id:ebi-a-GCST90001583	exposure	MR Egger	37	-2.83221398418215	1.58183150725176	0.0820327604667734
+EXeeTg	ebi-a-GCST90001583	Monocyte Absolute Count || id:ebi-a-GCST90001583	exposure	MR RAPS	37	-0.234294954835725	0.301947886511694	0.437781457033596
+EXeeTg	ebi-a-GCST90001583	Monocyte Absolute Count || id:ebi-a-GCST90001583	exposure	PRESSO	37	-0.243947088683744	0.269516718418206	0.371415632094041

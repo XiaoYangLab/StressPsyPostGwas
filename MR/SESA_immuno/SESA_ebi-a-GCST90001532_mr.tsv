@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001532	Basophil Absolute Count || id:ebi-a-GCST90001532	exposure	Inverse variance weighted (fixed effects)	39	-0.725531386977886	0.381070734674296	0.0569195122414194
+EXeeTg	ebi-a-GCST90001532	Basophil Absolute Count || id:ebi-a-GCST90001532	exposure	Weighted median	39	-0.678079692735648	0.558250622360258	0.22449921760842
+EXeeTg	ebi-a-GCST90001532	Basophil Absolute Count || id:ebi-a-GCST90001532	exposure	Weighted mode	39	-0.364148390083136	1.05763332350928	0.732515139237752
+EXeeTg	ebi-a-GCST90001532	Basophil Absolute Count || id:ebi-a-GCST90001532	exposure	Simple mode	39	-0.773822832410529	1.16240381894529	0.50961809921865
+EXeeTg	ebi-a-GCST90001532	Basophil Absolute Count || id:ebi-a-GCST90001532	exposure	MR Egger	39	0.143131493675629	1.94200112622839	0.941643656559751
+EXeeTg	ebi-a-GCST90001532	Basophil Absolute Count || id:ebi-a-GCST90001532	exposure	MR RAPS	39	-0.769178051311645	0.401565328213134	0.0554352212703912
+EXeeTg	ebi-a-GCST90001532	Basophil Absolute Count || id:ebi-a-GCST90001532	exposure	PRESSO	39	-0.725531386977886	0.359589008090103	0.0507281314174151

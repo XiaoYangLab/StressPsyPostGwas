@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001557	Terminally Differentiated CD8+ T cell Absolute Count || id:ebi-a-GCST90001557	exposure	Inverse variance weighted (fixed effects)	37	0.0866263808997896	0.297355925328198	0.770804913998056
+EXeeTg	ebi-a-GCST90001557	Terminally Differentiated CD8+ T cell Absolute Count || id:ebi-a-GCST90001557	exposure	Weighted median	37	0.367683907233367	0.418004401934097	0.37906665879925
+EXeeTg	ebi-a-GCST90001557	Terminally Differentiated CD8+ T cell Absolute Count || id:ebi-a-GCST90001557	exposure	Weighted mode	37	0.673735006925893	0.825837467346047	0.419968223010435
+EXeeTg	ebi-a-GCST90001557	Terminally Differentiated CD8+ T cell Absolute Count || id:ebi-a-GCST90001557	exposure	Simple mode	37	0.653007283982597	0.89200603445437	0.468867653276741
+EXeeTg	ebi-a-GCST90001557	Terminally Differentiated CD8+ T cell Absolute Count || id:ebi-a-GCST90001557	exposure	MR Egger	37	-2.96147376812281	1.49678388946863	0.0557780367068693
+EXeeTg	ebi-a-GCST90001557	Terminally Differentiated CD8+ T cell Absolute Count || id:ebi-a-GCST90001557	exposure	MR RAPS	37	0.128354883283377	0.310764950025768	0.679585492340161
+EXeeTg	ebi-a-GCST90001557	Terminally Differentiated CD8+ T cell Absolute Count || id:ebi-a-GCST90001557	exposure	PRESSO	37	0.0866263808997896	0.24313437223003	0.723702979957779

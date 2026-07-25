@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001590	CD4+ T cell Absolute Count || id:ebi-a-GCST90001590	exposure	Inverse variance weighted (fixed effects)	36	-0.183846746366084	0.294719733497663	0.532757654615797
+EXeeTg	ebi-a-GCST90001590	CD4+ T cell Absolute Count || id:ebi-a-GCST90001590	exposure	Weighted median	36	-0.0921891433502409	0.411037712224179	0.822536398884431
+EXeeTg	ebi-a-GCST90001590	CD4+ T cell Absolute Count || id:ebi-a-GCST90001590	exposure	Weighted mode	36	-0.254393933344934	0.700873942295533	0.718812670491703
+EXeeTg	ebi-a-GCST90001590	CD4+ T cell Absolute Count || id:ebi-a-GCST90001590	exposure	Simple mode	36	-0.254393933344934	0.729663096920893	0.729443902933721
+EXeeTg	ebi-a-GCST90001590	CD4+ T cell Absolute Count || id:ebi-a-GCST90001590	exposure	MR Egger	36	-1.2003009242495	1.46145582672793	0.417194539373107
+EXeeTg	ebi-a-GCST90001590	CD4+ T cell Absolute Count || id:ebi-a-GCST90001590	exposure	MR RAPS	36	-0.186560330215971	0.30868243545062	0.545593527686615
+EXeeTg	ebi-a-GCST90001590	CD4+ T cell Absolute Count || id:ebi-a-GCST90001590	exposure	PRESSO	36	-0.183846746366084	0.258725498320971	0.482049247350836
