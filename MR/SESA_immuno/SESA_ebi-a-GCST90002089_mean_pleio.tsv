@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90002089	CD11c on monocyte || id:ebi-a-GCST90002089	exposure	-0.00695659620556403	0.0257514964674816	0.788636511559839

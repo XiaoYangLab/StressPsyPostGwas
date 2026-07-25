@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90002395	Mean platelet volume || id:ebi-a-GCST90002395	exposure	Inverse variance weighted (fixed effects)	20	-0.00468974944348197	0.0327526919984237	0.886142744054637
+EXeeTg	ebi-a-GCST90002395	Mean platelet volume || id:ebi-a-GCST90002395	exposure	Weighted median	20	0.0651665145886517	0.0480574697469236	0.175095290933603
+EXeeTg	ebi-a-GCST90002395	Mean platelet volume || id:ebi-a-GCST90002395	exposure	Weighted mode	20	0.0946208902597923	0.0960767680052203	0.337075441324622
+EXeeTg	ebi-a-GCST90002395	Mean platelet volume || id:ebi-a-GCST90002395	exposure	Simple mode	20	0.0995034790235747	0.096130104789836	0.313621599266487
+EXeeTg	ebi-a-GCST90002395	Mean platelet volume || id:ebi-a-GCST90002395	exposure	MR Egger	20	-0.229422427100641	0.160800735204125	0.170768282372693
+EXeeTg	ebi-a-GCST90002395	Mean platelet volume || id:ebi-a-GCST90002395	exposure	MR RAPS	20	0.00133286302778516	0.0351385437461841	0.969742176223311
+EXeeTg	ebi-a-GCST90002395	Mean platelet volume || id:ebi-a-GCST90002395	exposure	PRESSO	20	-0.00468974944348197	0.0316238494608961	0.883670268631222

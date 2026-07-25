@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90002381	Eosinophil counts || id:ebi-a-GCST90002381	exposure	-0.00190871072634849	0.00230028891963258	0.415582298774047

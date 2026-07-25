@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90002401	exposure	Platelet distribution width || id:ebi-a-GCST90002401	0.00320605080952424	7.27435858486077e-05	TRUE	9.48524756422023e-97

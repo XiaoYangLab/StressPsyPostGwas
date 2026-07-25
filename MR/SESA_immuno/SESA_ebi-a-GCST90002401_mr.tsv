@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90002401	Platelet distribution width || id:ebi-a-GCST90002401	exposure	Inverse variance weighted (fixed effects)	28	0.0695713250755046	0.0275750850635989	0.0116365775447824
+EXeeTg	ebi-a-GCST90002401	Platelet distribution width || id:ebi-a-GCST90002401	exposure	Weighted median	28	0.0340081970045164	0.039460191110677	0.38877799826263
+EXeeTg	ebi-a-GCST90002401	Platelet distribution width || id:ebi-a-GCST90002401	exposure	Weighted mode	28	0.0105761104184711	0.0672279728897964	0.876165497805492
+EXeeTg	ebi-a-GCST90002401	Platelet distribution width || id:ebi-a-GCST90002401	exposure	Simple mode	28	0.025986080692418	0.0729673511881205	0.724508759445463
+EXeeTg	ebi-a-GCST90002401	Platelet distribution width || id:ebi-a-GCST90002401	exposure	MR Egger	28	-0.0177668565691731	0.151913664846215	0.90779553887818
+EXeeTg	ebi-a-GCST90002401	Platelet distribution width || id:ebi-a-GCST90002401	exposure	MR RAPS	28	0.0655798710184823	0.0290025337679567	0.0237482801433884
+EXeeTg	ebi-a-GCST90002401	Platelet distribution width || id:ebi-a-GCST90002401	exposure	PRESSO	28	0.0695713250755046	0.0256043628818214	0.011352484468632

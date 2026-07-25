@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90002110	exposure	HLA DR on CD33dim HLA DR+ CD11b+ || id:ebi-a-GCST90002110	0.00414234172822495	0.0140415377784676	FALSE	0.0277948927743304
