@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90000473	Interleukin-12 subunit B levels || id:ebi-a-GCST90000473	exposure	Inverse variance weighted (fixed effects)	37	-0.959995352397778	0.515144310321408	0.0623854232715644
+EXeeTg	ebi-a-GCST90000473	Interleukin-12 subunit B levels || id:ebi-a-GCST90000473	exposure	Weighted median	37	-0.312565994962806	0.743370516852617	0.674141164305831
+EXeeTg	ebi-a-GCST90000473	Interleukin-12 subunit B levels || id:ebi-a-GCST90000473	exposure	Weighted mode	37	-0.0218261245612474	1.60927887314931	0.989253769529117
+EXeeTg	ebi-a-GCST90000473	Interleukin-12 subunit B levels || id:ebi-a-GCST90000473	exposure	Simple mode	37	0.01107790561373	1.57746008133311	0.994435577105535
+EXeeTg	ebi-a-GCST90000473	Interleukin-12 subunit B levels || id:ebi-a-GCST90000473	exposure	MR Egger	37	-0.54988435925534	2.49625658485583	0.826930191488055
+EXeeTg	ebi-a-GCST90000473	Interleukin-12 subunit B levels || id:ebi-a-GCST90000473	exposure	MR RAPS	37	-0.870607129830913	0.540840589952054	0.107456890633583
+EXeeTg	ebi-a-GCST90000473	Interleukin-12 subunit B levels || id:ebi-a-GCST90000473	exposure	PRESSO	37	-0.959995352397778	0.453636256541708	0.0413077927229922

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001416	IgD+ CD24- B cell Absolute Count || id:ebi-a-GCST90001416	exposure	Inverse variance weighted (fixed effects)	39	-0.469554040487152	0.280980657138134	0.0946968217452397
+EXeeTg	ebi-a-GCST90001416	IgD+ CD24- B cell Absolute Count || id:ebi-a-GCST90001416	exposure	Weighted median	39	-0.360903623864843	0.41590437331634	0.385527779186813
+EXeeTg	ebi-a-GCST90001416	IgD+ CD24- B cell Absolute Count || id:ebi-a-GCST90001416	exposure	Weighted mode	39	0.375817460146738	0.829839538055138	0.653210675758891
+EXeeTg	ebi-a-GCST90001416	IgD+ CD24- B cell Absolute Count || id:ebi-a-GCST90001416	exposure	Simple mode	39	0.82259126834319	0.91483461483855	0.374225172015214
+EXeeTg	ebi-a-GCST90001416	IgD+ CD24- B cell Absolute Count || id:ebi-a-GCST90001416	exposure	MR Egger	39	0.244372644742821	1.40626663321216	0.86299031772634
+EXeeTg	ebi-a-GCST90001416	IgD+ CD24- B cell Absolute Count || id:ebi-a-GCST90001416	exposure	MR RAPS	39	-0.464953179416652	0.296164005410923	0.116434207964146
+EXeeTg	ebi-a-GCST90001416	IgD+ CD24- B cell Absolute Count || id:ebi-a-GCST90001416	exposure	PRESSO	39	-0.469554040487152	0.272887717240032	0.0934422943636462

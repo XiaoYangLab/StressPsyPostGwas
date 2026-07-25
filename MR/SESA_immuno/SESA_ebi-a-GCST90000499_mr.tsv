@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90000499	Tumor necrosis factor beta levels || id:ebi-a-GCST90000499	exposure	Inverse variance weighted (fixed effects)	38	-0.261926574313393	0.506363882907275	0.604968067167847
+EXeeTg	ebi-a-GCST90000499	Tumor necrosis factor beta levels || id:ebi-a-GCST90000499	exposure	Weighted median	38	0.511074273500364	0.715707929383442	0.475176368651525
+EXeeTg	ebi-a-GCST90000499	Tumor necrosis factor beta levels || id:ebi-a-GCST90000499	exposure	Weighted mode	38	1.03258908200139	1.4471241416464	0.479985113516808
+EXeeTg	ebi-a-GCST90000499	Tumor necrosis factor beta levels || id:ebi-a-GCST90000499	exposure	Simple mode	38	1.1053994019884	1.57286475796659	0.486582918282745
+EXeeTg	ebi-a-GCST90000499	Tumor necrosis factor beta levels || id:ebi-a-GCST90000499	exposure	MR Egger	38	3.30200961425774	2.47446577980494	0.190441462192101
+EXeeTg	ebi-a-GCST90000499	Tumor necrosis factor beta levels || id:ebi-a-GCST90000499	exposure	MR RAPS	38	-0.262494070235922	0.531893312288784	0.621653070389705
+EXeeTg	ebi-a-GCST90000499	Tumor necrosis factor beta levels || id:ebi-a-GCST90000499	exposure	PRESSO	38	-0.261926574313393	0.454629463438332	0.568014233344847

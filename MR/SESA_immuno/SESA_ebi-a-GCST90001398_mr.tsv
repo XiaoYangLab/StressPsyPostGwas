@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001398	Unswitched memory B cell Absolute Count || id:ebi-a-GCST90001398	exposure	Inverse variance weighted (fixed effects)	39	-0.45376275737822	0.280557781262604	0.105800729872042
+EXeeTg	ebi-a-GCST90001398	Unswitched memory B cell Absolute Count || id:ebi-a-GCST90001398	exposure	Weighted median	39	-0.412669569757028	0.373774132563461	0.269566529916987
+EXeeTg	ebi-a-GCST90001398	Unswitched memory B cell Absolute Count || id:ebi-a-GCST90001398	exposure	Weighted mode	39	-0.511339946996426	0.717825912982855	0.480602147786777
+EXeeTg	ebi-a-GCST90001398	Unswitched memory B cell Absolute Count || id:ebi-a-GCST90001398	exposure	Simple mode	39	-0.558818818800987	0.80135559681333	0.489833633823991
+EXeeTg	ebi-a-GCST90001398	Unswitched memory B cell Absolute Count || id:ebi-a-GCST90001398	exposure	MR Egger	39	-0.89806148624341	1.40419142908082	0.526400507998493
+EXeeTg	ebi-a-GCST90001398	Unswitched memory B cell Absolute Count || id:ebi-a-GCST90001398	exposure	MR RAPS	39	-0.45408992198958	0.29458335501708	0.123203662613646
+EXeeTg	ebi-a-GCST90001398	Unswitched memory B cell Absolute Count || id:ebi-a-GCST90001398	exposure	PRESSO	39	-0.45376275737822	0.25659877505587	0.0850260789032824

@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001420	IgD- CD38+ B cell Absolute Count || id:ebi-a-GCST90001420	exposure	-0.0126015580430803	0.0221413962399663	0.572795147088003

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90000476	Interleukin-10 levels || id:ebi-a-GCST90000476	exposure	Inverse variance weighted (fixed effects)	37	0.435731195637474	0.51500426950327	0.397512034479713
+EXeeTg	ebi-a-GCST90000476	Interleukin-10 levels || id:ebi-a-GCST90000476	exposure	Weighted median	37	0.530778672305582	0.733932461756212	0.469558093537796
+EXeeTg	ebi-a-GCST90000476	Interleukin-10 levels || id:ebi-a-GCST90000476	exposure	Weighted mode	37	0.541462993048393	1.41789312572871	0.704796406498041
+EXeeTg	ebi-a-GCST90000476	Interleukin-10 levels || id:ebi-a-GCST90000476	exposure	Simple mode	37	0.501547972292402	1.67127892405906	0.765828277719976
+EXeeTg	ebi-a-GCST90000476	Interleukin-10 levels || id:ebi-a-GCST90000476	exposure	MR Egger	37	3.58376119977463	2.41729839890628	0.147143460795114
+EXeeTg	ebi-a-GCST90000476	Interleukin-10 levels || id:ebi-a-GCST90000476	exposure	MR RAPS	37	0.455589163352686	0.540313709574158	0.399120072202793
+EXeeTg	ebi-a-GCST90000476	Interleukin-10 levels || id:ebi-a-GCST90000476	exposure	PRESSO	37	0.435731195637474	0.456958014088188	0.346671856904273

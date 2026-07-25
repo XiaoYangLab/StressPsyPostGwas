@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90000472	Interleukin-10 receptor B levels || id:ebi-a-GCST90000472	exposure	Inverse variance weighted (fixed effects)	36	0.13314867645598	0.520622070328457	0.798144504334
+EXeeTg	ebi-a-GCST90000472	Interleukin-10 receptor B levels || id:ebi-a-GCST90000472	exposure	Weighted median	36	-0.00783952790481351	0.688885235161078	0.99092025354448
+EXeeTg	ebi-a-GCST90000472	Interleukin-10 receptor B levels || id:ebi-a-GCST90000472	exposure	Weighted mode	36	-0.598847888649084	1.54476619440081	0.700613469754448
+EXeeTg	ebi-a-GCST90000472	Interleukin-10 receptor B levels || id:ebi-a-GCST90000472	exposure	Simple mode	36	0.963053205100312	1.45223780204141	0.511578028471485
+EXeeTg	ebi-a-GCST90000472	Interleukin-10 receptor B levels || id:ebi-a-GCST90000472	exposure	MR Egger	36	-0.357634705444632	3.19315841878778	0.911481793943921
+EXeeTg	ebi-a-GCST90000472	Interleukin-10 receptor B levels || id:ebi-a-GCST90000472	exposure	MR RAPS	36	0.162149887004141	0.543801102450795	0.765566804074837
+EXeeTg	ebi-a-GCST90000472	Interleukin-10 receptor B levels || id:ebi-a-GCST90000472	exposure	PRESSO	36	0.13314867645598	0.412803189305557	0.748956827714776

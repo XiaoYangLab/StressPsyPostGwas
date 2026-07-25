@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001404	Plasma Blast-Plasma Cell %B cell || id:ebi-a-GCST90001404	exposure	Inverse variance weighted (fixed effects)	39	-0.277352959700845	0.274140699999555	0.311673117709483
+EXeeTg	ebi-a-GCST90001404	Plasma Blast-Plasma Cell %B cell || id:ebi-a-GCST90001404	exposure	Weighted median	39	-0.201531280129304	0.386442452884235	0.602015728503271
+EXeeTg	ebi-a-GCST90001404	Plasma Blast-Plasma Cell %B cell || id:ebi-a-GCST90001404	exposure	Weighted mode	39	-0.312711542829984	0.690086531491264	0.653018973671475
+EXeeTg	ebi-a-GCST90001404	Plasma Blast-Plasma Cell %B cell || id:ebi-a-GCST90001404	exposure	Simple mode	39	-0.277881180374438	0.734205772172261	0.707181395640328
+EXeeTg	ebi-a-GCST90001404	Plasma Blast-Plasma Cell %B cell || id:ebi-a-GCST90001404	exposure	MR Egger	39	0.439838827166967	1.36993777982535	0.749967846638509
+EXeeTg	ebi-a-GCST90001404	Plasma Blast-Plasma Cell %B cell || id:ebi-a-GCST90001404	exposure	MR RAPS	39	-0.345743297776923	0.28737340572088	0.228931763971418
+EXeeTg	ebi-a-GCST90001404	Plasma Blast-Plasma Cell %B cell || id:ebi-a-GCST90001404	exposure	PRESSO	39	-0.277352959700845	0.251482334718063	0.277018347516068

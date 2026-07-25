@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001408	Naive-mature B cell %B cell || id:ebi-a-GCST90001408	exposure	Inverse variance weighted (fixed effects)	36	-0.0686705409759369	0.290166140352627	0.812921044240883
+EXeeTg	ebi-a-GCST90001408	Naive-mature B cell %B cell || id:ebi-a-GCST90001408	exposure	Weighted median	36	0.100870628738871	0.399408419265909	0.800615909022507
+EXeeTg	ebi-a-GCST90001408	Naive-mature B cell %B cell || id:ebi-a-GCST90001408	exposure	Weighted mode	36	0.269867566495992	0.757022313445673	0.723617071631973
+EXeeTg	ebi-a-GCST90001408	Naive-mature B cell %B cell || id:ebi-a-GCST90001408	exposure	Simple mode	36	0.30550121530599	0.787601647735499	0.700448088675521
+EXeeTg	ebi-a-GCST90001408	Naive-mature B cell %B cell || id:ebi-a-GCST90001408	exposure	MR Egger	36	-1.06922459858677	1.45570137028402	0.467674925704534
+EXeeTg	ebi-a-GCST90001408	Naive-mature B cell %B cell || id:ebi-a-GCST90001408	exposure	MR RAPS	36	-0.0869687548266506	0.302412514727549	0.773665816129654
+EXeeTg	ebi-a-GCST90001408	Naive-mature B cell %B cell || id:ebi-a-GCST90001408	exposure	PRESSO	36	-0.0686705409759369	0.228829396538219	0.765879949449135

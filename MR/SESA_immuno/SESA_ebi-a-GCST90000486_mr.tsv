@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90000486	Monocyte chemoattractant protein-4 levels || id:ebi-a-GCST90000486	exposure	Inverse variance weighted (fixed effects)	35	-0.930078569125337	0.53381224546852	0.0814502321768994
+EXeeTg	ebi-a-GCST90000486	Monocyte chemoattractant protein-4 levels || id:ebi-a-GCST90000486	exposure	Weighted median	35	-0.737541678350107	0.742457269027724	0.320525147918766
+EXeeTg	ebi-a-GCST90000486	Monocyte chemoattractant protein-4 levels || id:ebi-a-GCST90000486	exposure	Weighted mode	35	-0.431747008475471	1.40184147758067	0.759972227599663
+EXeeTg	ebi-a-GCST90000486	Monocyte chemoattractant protein-4 levels || id:ebi-a-GCST90000486	exposure	Simple mode	35	-0.364767992448849	1.45067444001841	0.802981999367057
+EXeeTg	ebi-a-GCST90000486	Monocyte chemoattractant protein-4 levels || id:ebi-a-GCST90000486	exposure	MR Egger	35	0.389071257409572	2.4623096521684	0.875411320186511
+EXeeTg	ebi-a-GCST90000486	Monocyte chemoattractant protein-4 levels || id:ebi-a-GCST90000486	exposure	MR RAPS	35	-0.973494997417819	0.55754708448761	0.0808054082085375
+EXeeTg	ebi-a-GCST90000486	Monocyte chemoattractant protein-4 levels || id:ebi-a-GCST90000486	exposure	PRESSO	35	-0.930078569125337	0.406732216515867	0.028562531482697
