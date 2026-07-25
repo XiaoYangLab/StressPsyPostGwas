@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001701	BAFF-R on CD20- CD38- B cell || id:ebi-a-GCST90001701	exposure	0.0146804435657553	0.023634363276936	0.538644460653077

@@ -1,0 +1,8 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+EXeeTg	ebi-a-GCST90001716	BAFF-R on naive-mature B cell || id:ebi-a-GCST90001716	exposure	Inverse variance weighted (fixed effects)	37	-0.0884643134742306	0.289066116463225	0.759578090710126
+EXeeTg	ebi-a-GCST90001716	BAFF-R on naive-mature B cell || id:ebi-a-GCST90001716	exposure	Weighted median	37	0.0545766026516837	0.403565447706332	0.892425234168011
+EXeeTg	ebi-a-GCST90001716	BAFF-R on naive-mature B cell || id:ebi-a-GCST90001716	exposure	Weighted mode	37	0.42700958269188	0.764846407204131	0.580099257826751
+EXeeTg	ebi-a-GCST90001716	BAFF-R on naive-mature B cell || id:ebi-a-GCST90001716	exposure	Simple mode	37	-0.982814795413006	0.842221817590666	0.250910035917408
+EXeeTg	ebi-a-GCST90001716	BAFF-R on naive-mature B cell || id:ebi-a-GCST90001716	exposure	MR Egger	37	0.885906577100802	1.41710588874754	0.535926257718595
+EXeeTg	ebi-a-GCST90001716	BAFF-R on naive-mature B cell || id:ebi-a-GCST90001716	exposure	MR RAPS	37	-0.0969451797317868	0.302900646646783	0.748925853566063
+EXeeTg	ebi-a-GCST90001716	BAFF-R on naive-mature B cell || id:ebi-a-GCST90001716	exposure	PRESSO	37	-0.0884643134742306	0.255345158844986	0.731021455698052

@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+EXeeTg	ebi-a-GCST90001683	CD127- CD8+ T cell %CD8+ T cell || id:ebi-a-GCST90001683	exposure	-0.00391284035960416	0.022284721169461	0.861553098642067

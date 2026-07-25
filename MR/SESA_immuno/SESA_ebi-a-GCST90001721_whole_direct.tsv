@@ -1,0 +1,2 @@
+id.exposure	id.outcome	exposure	outcome	snp_r2.exposure	snp_r2.outcome	correct_causal_direction	steiger_pval
+EXeeTg	ebi-a-GCST90001721	exposure	CD19 on CD20- B cell || id:ebi-a-GCST90001721	0.00449722532877122	0.0109308746085986	FALSE	0.0231420124193452
